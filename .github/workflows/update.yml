@@ -23,20 +23,24 @@ jobs:
       - name: fetch all boards
         run: python build/fetch_hot.py
 
+      # jsDelivr 对同一个路径会缓存 12 小时，purge 也不一定立刻生效。
+      # 所以每小时额外写一个「文件名带 UTC 小时」的快照：路径每小时都是新的，
+      # CDN 里必然没有，只能回源取最新的那份 —— 页面读快照就不会拿到半天前的数据。
+      - name: publish hourly snapshot
+        run: |
+          mkdir -p data/hourly
+          cp data/hot.json "data/hourly/$(date -u +%Y%m%d-%H).json"
+          # 只留最近 48 小时，按文件名排序即时间序，别让仓库越滚越大
+          ls -1 data/hourly/*.json | sort | head -n -48 | xargs -r rm -f
+
       - name: commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/hot.json
+          git add data/hot.json data/hourly
           if git diff --staged --quiet; then
             echo "no change"
           else
             git commit -m "hot: update $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
-
-      # jsDelivr 对分支引用会缓存 12 小时，不清的话页面拿到的是半天前的数据
-      - name: purge jsDelivr cache
-        run: |
-          sleep 5
-          curl -s -m 30 "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/data/hot.json" || true
