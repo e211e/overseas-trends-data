@@ -1,0 +1,20 @@
+name: probe
+on:
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: runner egress ip
+        run: curl -s https://api.ipify.org; echo
+      - name: run real fetch_hot.py
+        run: python fetch_hot.py
+      - name: result summary
+        if: always()
+        run: |
+          python -c "import json,os;p='data/hot.json';d=json.load(open(p,encoding='utf-8'));ok=[b['id'] for b in d['boards'] if not b.get('stale')];bad=[b['id'] for b in d['boards'] if b.get('stale')];print('OK %d / %d'%(len(ok),len(d['boards'])));print('PASS:',' '.join(ok));print('FAIL:',' '.join(bad))"
