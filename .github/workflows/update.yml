@@ -1,0 +1,42 @@
+name: hot
+
+# 每小时第 7 分跑一次；也可以手动触发
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: fetch all boards
+        run: python build/fetch_hot.py
+
+      - name: commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/hot.json
+          if git diff --staged --quiet; then
+            echo "no change"
+          else
+            git commit -m "hot: update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      # jsDelivr 对分支引用会缓存 12 小时，不清的话页面拿到的是半天前的数据
+      - name: purge jsDelivr cache
+        run: |
+          sleep 5
+          curl -s -m 30 "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/data/hot.json" || true
