@@ -1,20 +1,29 @@
-name: probe
+name: hot
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '7 * * * *'
+permissions:
+  contents: write
 jobs:
-  probe:
+  fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: runner egress ip
-        run: curl -s https://api.ipify.org; echo
-      - name: run real fetch_hot.py
-        run: python fetch_hot.py
-      - name: result summary
-        if: always()
+      - name: fetch all boards
+        run: python build/fetch_hot.py
+      - name: commit data
         run: |
-          python -c "import json,os;p='data/hot.json';d=json.load(open(p,encoding='utf-8'));ok=[b['id'] for b in d['boards'] if not b.get('stale')];bad=[b['id'] for b in d['boards'] if b.get('stale')];print('OK %d / %d'%(len(ok),len(d['boards'])));print('PASS:',' '.join(ok));print('FAIL:',' '.join(bad))"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/hot.json
+          if git diff --staged --quiet; then
+            echo "no change"
+          else
+            git commit -m "hot: update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
