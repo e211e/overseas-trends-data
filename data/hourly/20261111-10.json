@@ -1,0 +1,3997 @@
+{
+ "updated": "2026-11-11 18:43",
+ "updated_iso": "2026-11-11T18:43:25+08:00",
+ "boards": [
+  {
+   "id": "weibo",
+   "name": "微博热搜",
+   "sub": "实时",
+   "region": "cn",
+   "home": "https://s.weibo.com/top/summary",
+   "unit": "",
+   "items": [
+    {
+     "t": "商场看中羽绒服网上便宜一千",
+     "u": "https://s.weibo.com/weibo?q=%E5%95%86%E5%9C%BA%E7%9C%8B%E4%B8%AD%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%BD%91%E4%B8%8A%E4%BE%BF%E5%AE%9C%E4%B8%80%E5%8D%83",
+     "n": 1107651,
+     "d": ""
+    },
+    {
+     "t": "林生斌社媒封面还是亡妻与3个孩子",
+     "u": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E7%94%9F%E6%96%8C%E7%A4%BE%E5%AA%92%E5%B0%81%E9%9D%A2%E8%BF%98%E6%98%AF%E4%BA%A1%E5%A6%BB%E4%B8%8E3%E4%B8%AA%E5%AD%A9%E5%AD%90%23",
+     "n": 775487,
+     "d": "新"
+    },
+    {
+     "t": "一人一句致敬人民空军",
+     "u": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%87%B4%E6%95%AC%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%23",
+     "n": 648908,
+     "d": ""
+    },
+    {
+     "t": "天猫双11十八岁生日快乐",
+     "u": "https://s.weibo.com/weibo?q=%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E5%8D%81%E5%85%AB%E5%B2%81%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90",
+     "n": 641780,
+     "d": ""
+    },
+    {
+     "t": "兰香如故配角拿到男女主资源了",
+     "u": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E9%85%8D%E8%A7%92%E6%8B%BF%E5%88%B0%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%B5%84%E6%BA%90%E4%BA%86%23",
+     "n": 470706,
+     "d": "新"
+    },
+    {
+     "t": "女子撞翻300斤切糕赔偿2万多元",
+     "u": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%92%9E%E7%BF%BB300%E6%96%A4%E5%88%87%E7%B3%95%E8%B5%94%E5%81%BF2%E4%B8%87%E5%A4%9A%E5%85%83%23",
+     "n": 313027,
+     "d": "新"
+    },
+    {
+     "t": "未来5年会计事业这样发展",
+     "u": "https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A55%E5%B9%B4%E4%BC%9A%E8%AE%A1%E4%BA%8B%E4%B8%9A%E8%BF%99%E6%A0%B7%E5%8F%91%E5%B1%95%23",
+     "n": 297606,
+     "d": ""
+    },
+    {
+     "t": "朋友求偶感特别强有多好笑",
+     "u": "https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E6%B1%82%E5%81%B6%E6%84%9F%E7%89%B9%E5%88%AB%E5%BC%BA%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91",
+     "n": 247701,
+     "d": "新"
+    },
+    {
+     "t": "袁雨萱何泽远爱的修学旅行下车",
+     "u": "https://s.weibo.com/weibo?q=%23%E8%A2%81%E9%9B%A8%E8%90%B1%E4%BD%95%E6%B3%BD%E8%BF%9C%E7%88%B1%E7%9A%84%E4%BF%AE%E5%AD%A6%E6%97%85%E8%A1%8C%E4%B8%8B%E8%BD%A6%23",
+     "n": 236964,
+     "d": "新"
+    },
+    {
+     "t": "BLG官宣Smoggy加入",
+     "u": "https://s.weibo.com/weibo?q=%23BLG%E5%AE%98%E5%AE%A3Smoggy%E5%8A%A0%E5%85%A5%23",
+     "n": 234738,
+     "d": "新"
+    },
+    {
+     "t": "韩聪晒结婚照",
+     "u": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%81%AA%E6%99%92%E7%BB%93%E5%A9%9A%E7%85%A7%23",
+     "n": 234720,
+     "d": ""
+    },
+    {
+     "t": "霍启山娜然 结婚",
+     "u": "https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%A8%9C%E7%84%B6%20%E7%BB%93%E5%A9%9A",
+     "n": 234435,
+     "d": "新"
+    },
+    {
+     "t": "林生斌赔偿款分配曾遭亡妻哥哥质疑",
+     "u": "https://s.weibo.com/weibo?q=%E6%9E%97%E7%94%9F%E6%96%8C%E8%B5%94%E5%81%BF%E6%AC%BE%E5%88%86%E9%85%8D%E6%9B%BE%E9%81%AD%E4%BA%A1%E5%A6%BB%E5%93%A5%E5%93%A5%E8%B4%A8%E7%96%91",
+     "n": 234026,
+     "d": "新"
+    },
+    {
+     "t": "许飞 这个你送给娜娜",
+     "u": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%20%E8%BF%99%E4%B8%AA%E4%BD%A0%E9%80%81%E7%BB%99%E5%A8%9C%E5%A8%9C",
+     "n": 233980,
+     "d": "新"
+    },
+    {
+     "t": "谷雨张颂文张雪迎床戏",
+     "u": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E9%9B%A8%E5%BC%A0%E9%A2%82%E6%96%87%E5%BC%A0%E9%9B%AA%E8%BF%8E%E5%BA%8A%E6%88%8F%23",
+     "n": 233659,
+     "d": ""
+    },
+    {
+     "t": "曝王心凌拎着750万台币现金买珠宝",
+     "u": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E5%BF%83%E5%87%8C%E6%8B%8E%E7%9D%80750%E4%B8%87%E5%8F%B0%E5%B8%81%E7%8E%B0%E9%87%91%E4%B9%B0%E7%8F%A0%E5%AE%9D%23",
+     "n": 233505,
+     "d": "新"
+    },
+    {
+     "t": "霍启山初恋是章子怡",
+     "u": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%88%9D%E6%81%8B%E6%98%AF%E7%AB%A0%E5%AD%90%E6%80%A1%23",
+     "n": 233081,
+     "d": "新"
+    },
+    {
+     "t": "比亚迪对错装大唐车辆重新起算整车质保",
+     "u": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AF%B9%E9%94%99%E8%A3%85%E5%A4%A7%E5%94%90%E8%BD%A6%E8%BE%86%E9%87%8D%E6%96%B0%E8%B5%B7%E7%AE%97%E6%95%B4%E8%BD%A6%E8%B4%A8%E4%BF%9D%23",
+     "n": 232817,
+     "d": ""
+    },
+    {
+     "t": "疑似许飞厉娜告密监控视频泄露",
+     "u": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E5%91%8A%E5%AF%86%E7%9B%91%E6%8E%A7%E8%A7%86%E9%A2%91%E6%B3%84%E9%9C%B2%23",
+     "n": 232562,
+     "d": "新"
+    },
+    {
+     "t": "白小纯被粉丝叫纯妹妹",
+     "u": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%A2%AB%E7%B2%89%E4%B8%9D%E5%8F%AB%E7%BA%AF%E5%A6%B9%E5%A6%B9%23",
+     "n": 232481,
+     "d": "新"
+    },
+    {
+     "t": "地震瞬间3只小猫惊成6个灯泡",
+     "u": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B43%E5%8F%AA%E5%B0%8F%E7%8C%AB%E6%83%8A%E6%88%906%E4%B8%AA%E7%81%AF%E6%B3%A1%23",
+     "n": 232115,
+     "d": ""
+    },
+    {
+     "t": "张萌送iPhone18马天宇送iPhone14",
+     "u": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%80%81iPhone18%E9%A9%AC%E5%A4%A9%E5%AE%87%E9%80%81iPhone14%23",
+     "n": 231809,
+     "d": "新"
+    },
+    {
+     "t": "日本上司因中国下属回OK不爽",
+     "u": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%B8%8A%E5%8F%B8%E5%9B%A0%E4%B8%AD%E5%9B%BD%E4%B8%8B%E5%B1%9E%E5%9B%9EOK%E4%B8%8D%E7%88%BD",
+     "n": 231635,
+     "d": "新"
+    },
+    {
+     "t": "娜然霍启山感情时间线",
+     "u": "https://s.weibo.com/weibo?q=%23%E5%A8%9C%E7%84%B6%E9%9C%8D%E5%90%AF%E5%B1%B1%E6%84%9F%E6%83%85%E6%97%B6%E9%97%B4%E7%BA%BF%23",
+     "n": 231557,
+     "d": "新"
+    },
+    {
+     "t": "别人都是紧身裤就厉娜是阔腿裤",
+     "u": "https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BA%BA%E9%83%BD%E6%98%AF%E7%B4%A7%E8%BA%AB%E8%A3%A4%E5%B0%B1%E5%8E%89%E5%A8%9C%E6%98%AF%E9%98%94%E8%85%BF%E8%A3%A4%23",
+     "n": 227610,
+     "d": ""
+    },
+    {
+     "t": "杨超越居然这么适合大光明",
+     "u": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E9%80%82%E5%90%88%E5%A4%A7%E5%85%89%E6%98%8E%23",
+     "n": 214688,
+     "d": ""
+    },
+    {
+     "t": "网传眉山160万房子只卖30多万",
+     "u": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E7%9C%89%E5%B1%B1160%E4%B8%87%E6%88%BF%E5%AD%90%E5%8F%AA%E5%8D%9630%E5%A4%9A%E4%B8%87",
+     "n": 205393,
+     "d": "新"
+    },
+    {
+     "t": "司美格鲁肽副作用",
+     "u": "https://s.weibo.com/weibo?q=%23%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E5%89%AF%E4%BD%9C%E7%94%A8%23",
+     "n": 201834,
+     "d": ""
+    },
+    {
+     "t": "开车真不是一件轻松的事情",
+     "u": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E8%BD%A6%E7%9C%9F%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E8%BD%BB%E6%9D%BE%E7%9A%84%E4%BA%8B%E6%83%85%23",
+     "n": 194724,
+     "d": ""
+    },
+    {
+     "t": "曝李一桐李昀锐结婚而已11月底开机",
+     "u": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%8E%E4%B8%80%E6%A1%90%E6%9D%8E%E6%98%80%E9%94%90%E7%BB%93%E5%A9%9A%E8%80%8C%E5%B7%B211%E6%9C%88%E5%BA%95%E5%BC%80%E6%9C%BA%23",
+     "n": 183778,
+     "d": ""
+    },
+    {
+     "t": "白小纯vlog",
+     "u": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AFvlog%23",
+     "n": 181144,
+     "d": "新"
+    },
+    {
+     "t": "曝iPhone20Pro全固态按键",
+     "u": "https://s.weibo.com/weibo?q=%E6%9B%9DiPhone20Pro%E5%85%A8%E5%9B%BA%E6%80%81%E6%8C%89%E9%94%AE",
+     "n": 175854,
+     "d": "新"
+    },
+    {
+     "t": "柳智敏回应韩秀雅事件",
+     "u": "https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%E5%9B%9E%E5%BA%94%E9%9F%A9%E7%A7%80%E9%9B%85%E4%BA%8B%E4%BB%B6%23",
+     "n": 169885,
+     "d": ""
+    },
+    {
+     "t": "替尔泊肽超越司美格鲁肽成全球药王",
+     "u": "https://s.weibo.com/weibo?q=%23%E6%9B%BF%E5%B0%94%E6%B3%8A%E8%82%BD%E8%B6%85%E8%B6%8A%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E6%88%90%E5%85%A8%E7%90%83%E8%8D%AF%E7%8E%8B%23",
+     "n": 166102,
+     "d": ""
+    },
+    {
+     "t": "日本拟全面废除女性劳动保护规定",
+     "u": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8B%9F%E5%85%A8%E9%9D%A2%E5%BA%9F%E9%99%A4%E5%A5%B3%E6%80%A7%E5%8A%B3%E5%8A%A8%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%AE%9A%23",
+     "n": 164349,
+     "d": "新"
+    },
+    {
+     "t": "谁来懂白鹿扭的这几下",
+     "u": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E6%87%82%E7%99%BD%E9%B9%BF%E6%89%AD%E7%9A%84%E8%BF%99%E5%87%A0%E4%B8%8B%23",
+     "n": 162408,
+     "d": "新"
+    },
+    {
+     "t": "李昀锐删了骂孟子义的留言",
+     "u": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E5%88%A0%E4%BA%86%E9%AA%82%E5%AD%9F%E5%AD%90%E4%B9%89%E7%9A%84%E7%95%99%E8%A8%80%23",
+     "n": 152998,
+     "d": ""
+    },
+    {
+     "t": "有人婚外情用影视剧弹幕聊天",
+     "u": "https://s.weibo.com/weibo?q=%E6%9C%89%E4%BA%BA%E5%A9%9A%E5%A4%96%E6%83%85%E7%94%A8%E5%BD%B1%E8%A7%86%E5%89%A7%E5%BC%B9%E5%B9%95%E8%81%8A%E5%A4%A9",
+     "n": 141382,
+     "d": ""
+    },
+    {
+     "t": "电影三金奖大满贯演员",
+     "u": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B8%89%E9%87%91%E5%A5%96%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%BC%94%E5%91%98%23",
+     "n": 138500,
+     "d": ""
+    },
+    {
+     "t": "曝时代少年团有团录制",
+     "u": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%9C%89%E5%9B%A2%E5%BD%95%E5%88%B6%23",
+     "n": 115706,
+     "d": "新"
+    },
+    {
+     "t": "榜一大哥吃泡面也要做大哥",
+     "u": "https://s.weibo.com/weibo?q=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E5%90%83%E6%B3%A1%E9%9D%A2%E4%B9%9F%E8%A6%81%E5%81%9A%E5%A4%A7%E5%93%A5",
+     "n": 112776,
+     "d": ""
+    },
+    {
+     "t": "GEN老板说决赛票价太夸张",
+     "u": "https://s.weibo.com/weibo?q=%23GEN%E8%80%81%E6%9D%BF%E8%AF%B4%E5%86%B3%E8%B5%9B%E7%A5%A8%E4%BB%B7%E5%A4%AA%E5%A4%B8%E5%BC%A0%23",
+     "n": 112117,
+     "d": "新"
+    },
+    {
+     "t": "影后陶红为高叶颁奖",
+     "u": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%90%8E%E9%99%B6%E7%BA%A2%E4%B8%BA%E9%AB%98%E5%8F%B6%E9%A2%81%E5%A5%96%23",
+     "n": 109722,
+     "d": "新"
+    },
+    {
+     "t": "唧唧复唧唧木兰双11",
+     "u": "https://s.weibo.com/weibo?q=%23%E5%94%A7%E5%94%A7%E5%A4%8D%E5%94%A7%E5%94%A7%E6%9C%A8%E5%85%B0%E5%8F%8C11%23",
+     "n": 107785,
+     "d": "新"
+    },
+    {
+     "t": "A股光模块彻底爆了",
+     "u": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%85%89%E6%A8%A1%E5%9D%97%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86%23",
+     "n": 107480,
+     "d": "新"
+    },
+    {
+     "t": "AJ预测S16决赛GEN夺冠",
+     "u": "https://s.weibo.com/weibo?q=%23AJ%E9%A2%84%E6%B5%8BS16%E5%86%B3%E8%B5%9BGEN%E5%A4%BA%E5%86%A0%23",
+     "n": 103599,
+     "d": ""
+    },
+    {
+     "t": "会计改革与发展十五五规划",
+     "u": "https://s.weibo.com/weibo?q=%23%E4%BC%9A%E8%AE%A1%E6%94%B9%E9%9D%A9%E4%B8%8E%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%23",
+     "n": 100280,
+     "d": "新"
+    },
+    {
+     "t": "80vs90vs00的购物车",
+     "u": "https://s.weibo.com/weibo?q=%2380vs90vs00%E7%9A%84%E8%B4%AD%E7%89%A9%E8%BD%A6%23",
+     "n": 97785,
+     "d": "新"
+    },
+    {
+     "t": "绯红女巫复活",
+     "u": "https://s.weibo.com/weibo?q=%E7%BB%AF%E7%BA%A2%E5%A5%B3%E5%B7%AB%E5%A4%8D%E6%B4%BB",
+     "n": 96900,
+     "d": "新"
+    },
+    {
+     "t": "张萌马天宇都爱送人手机",
+     "u": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%A9%AC%E5%A4%A9%E5%AE%87%E9%83%BD%E7%88%B1%E9%80%81%E4%BA%BA%E6%89%8B%E6%9C%BA%23",
+     "n": 96577,
+     "d": ""
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "baidu",
+   "name": "百度热搜",
+   "sub": "实时",
+   "region": "cn",
+   "home": "https://top.baidu.com/board?tab=realtime",
+   "unit": "",
+   "items": [
+    {
+     "t": "加快建设国际一流湾区",
+     "u": "https://www.baidu.com/s?wd=%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E5%9B%BD%E9%99%85%E4%B8%80%E6%B5%81%E6%B9%BE%E5%8C%BA",
+     "n": 7904327,
+     "d": "建设粤港澳大湾区是习近平总书记亲自谋划、亲自部署、亲自推动的重大国家战略。总书记强调，要锚定建设富有活力和国际竞争力的一"
+    },
+    {
+     "t": "“取消外卖”？是何居心",
+     "u": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%96%E6%B6%88%E5%A4%96%E5%8D%96%E2%80%9D%EF%BC%9F%E6%98%AF%E4%BD%95%E5%B1%85%E5%BF%83",
+     "n": 7808339,
+     "d": "近期，短视频平台出现不少呼吁“取消外卖”的视频。经查实，这些内容是MCN机构为快速起号刻意炮制的噱头。视频刻意制造对立、"
+    },
+    {
+     "t": "“用二手手机不再没面子了”",
+     "u": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%A8%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%86%8D%E6%B2%A1%E9%9D%A2%E5%AD%90%E4%BA%86%E2%80%9D",
+     "n": 7711947,
+     "d": "用二手手机不再没面子了！2026年前10个月，超500万用户首次购买二手机，苹果手机是二手市场的绝对主力。"
+    },
+    {
+     "t": "“十五五”增进民生福祉这么干",
+     "u": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E5%A2%9E%E8%BF%9B%E6%B0%91%E7%94%9F%E7%A6%8F%E7%A5%89%E8%BF%99%E4%B9%88%E5%B9%B2",
+     "n": 7616919,
+     "d": "11月10日，国家发展改革委举行奋进“十五五”系列新闻发布会，介绍保障和改善民生有关部署和落实举措。今年以来，国家发展改"
+    },
+    {
+     "t": "全国最低工资均已超过2000元",
+     "u": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E5%9D%87%E5%B7%B2%E8%B6%85%E8%BF%872000%E5%85%83",
+     "n": 7521629,
+     "d": "11月11日消息，截至目前，今年已有江苏、浙江、广东等多地上调最低工资标准，最低涨100元，最高涨超200元，全国各省、"
+    },
+    {
+     "t": "康师傅回应一包泡面近20元",
+     "u": "https://www.baidu.com/s?wd=%E5%BA%B7%E5%B8%88%E5%82%85%E5%9B%9E%E5%BA%94%E4%B8%80%E5%8C%85%E6%B3%A1%E9%9D%A2%E8%BF%9120%E5%85%83",
+     "n": 7429070,
+     "d": "11月10日，康师傅一款山姆限定“潮卤牛三宝牛肉面”登上热搜，一箱4包售价79.9元，单包近20元。康师傅回应称，该产品"
+    },
+    {
+     "t": "明晚国内油价将调整",
+     "u": "https://www.baidu.com/s?wd=%E6%98%8E%E6%99%9A%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%B0%83%E6%95%B4",
+     "n": 7328756,
+     "d": "11月12日24时，新一轮国内成品油零售限价调整窗口将开启，多家机构预测或将迎来8月下旬以来首次下调。业内人士预计，国内"
+    },
+    {
+     "t": "“一个头脑发热 一个后背发凉”",
+     "u": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E4%B8%AA%E5%A4%B4%E8%84%91%E5%8F%91%E7%83%AD+%E4%B8%80%E4%B8%AA%E5%90%8E%E8%83%8C%E5%8F%91%E5%87%89%E2%80%9D",
+     "n": 7237169,
+     "d": "近日，在W中文版年度盛典上，白敬亭、井柏然反差造型同框，一人身披貂皮，一人露背亮相，网友调侃“一个头脑发热，一个后背发凉"
+    },
+    {
+     "t": "俄美乌第二日三方会谈结束",
+     "u": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BE%8E%E4%B9%8C%E7%AC%AC%E4%BA%8C%E6%97%A5%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88%E7%BB%93%E6%9D%9F",
+     "n": 7136281,
+     "d": "当地时间11日下午，有来自俄罗斯方面的消息称，俄美乌三方间在阿联酋阿布扎比的第二日会谈已经结束。消息称，第二天的会谈持续"
+    },
+    {
+     "t": "奥运冠军韩聪宣布结婚",
+     "u": "https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E9%9F%A9%E8%81%AA%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A",
+     "n": 7040343,
+     "d": "11月11日，冬奥会冠军韩聪在个人社交账号晒出婚纱照，配文称“想和爱人一起，好好吃饭，好好散步”。此前，韩聪曾搭档隋文静"
+    },
+    {
+     "t": "友情进入大算账时代",
+     "u": "https://www.baidu.com/s?wd=%E5%8F%8B%E6%83%85%E8%BF%9B%E5%85%A5%E5%A4%A7%E7%AE%97%E8%B4%A6%E6%97%B6%E4%BB%A3",
+     "n": 6944094,
+     "d": "综艺《后会友期》中，作家文吉儿与演员王子璇因八年前3万元写序费当众对质，王子璇退款并表示“不想再做朋友”，两人彻底绝交，"
+    },
+    {
+     "t": "三国营中逢诡计 马谡险入诈骗局",
+     "u": "https://www.baidu.com/s?wd=%E4%B8%89%E5%9B%BD%E8%90%A5%E4%B8%AD%E9%80%A2%E8%AF%A1%E8%AE%A1+%E9%A9%AC%E8%B0%A1%E9%99%A9%E5%85%A5%E8%AF%88%E9%AA%97%E5%B1%80",
+     "n": 6856830,
+     "d": "双11蜀军大营采买，马谡险被假“客服”三倍退款骗走信息，诸葛亮及时拦下并提示：陌生来电索要卡号验证码，先核验。"
+    },
+    {
+     "t": "霍启山娜然婚礼请柬疑似曝光",
+     "u": "https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%A8%9C%E7%84%B6%E5%A9%9A%E7%A4%BC%E8%AF%B7%E6%9F%AC%E7%96%91%E4%BC%BC%E6%9B%9D%E5%85%89",
+     "n": 6758093,
+     "d": ""
+    },
+    {
+     "t": "杭州18岁女孩检出18种HPV亚型阳性",
+     "u": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E18%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%A3%80%E5%87%BA18%E7%A7%8DHPV%E4%BA%9A%E5%9E%8B%E9%98%B3%E6%80%A7",
+     "n": 6659435,
+     "d": "近日，杭州临平区妇幼保健院接诊一名18岁女孩，因外阴疼痛确诊外阴尖锐湿疣，检出18种HPV亚型阳性，含10种高危致癌亚型"
+    },
+    {
+     "t": "王晨正讲述丫头去世细节",
+     "u": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%99%A8%E6%AD%A3%E8%AE%B2%E8%BF%B0%E4%B8%AB%E5%A4%B4%E5%8E%BB%E4%B8%96%E7%BB%86%E8%8A%82",
+     "n": 6571473,
+     "d": "近日，曾参加《变形计》的王晨正讲述丫头去世细节。此前，16日丫头给爷爷打电话要手机和衣服，17日爷爷去买，18日送去时丫"
+    },
+    {
+     "t": "蒋万安力挺罗大佑：振聋发聩",
+     "u": "https://www.baidu.com/s?wd=%E8%92%8B%E4%B8%87%E5%AE%89%E5%8A%9B%E6%8C%BA%E7%BD%97%E5%A4%A7%E4%BD%91%EF%BC%9A%E6%8C%AF%E8%81%8B%E5%8F%91%E8%81%A9",
+     "n": 6470722,
+     "d": "11月11日，台北市长蒋万安力挺罗大佑痛批赖清德。蒋万安盛赞罗大佑关心社会议题、反映时代声音，有机会会向他请教。"
+    },
+    {
+     "t": "央视曝光后 四川宜宾成立调查组",
+     "u": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84",
+     "n": 6377797,
+     "d": "央视曝光四川宜宾一传媒公司批量炮制“取消外卖关闭直播”等虚假摆拍视频、挑动情绪收割流量后，11月11日宜宾市委网信办联合"
+    },
+    {
+     "t": "当大学生“不抬头不听课不交流”",
+     "u": "https://www.baidu.com/s?wd=%E5%BD%93%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E4%B8%8D%E6%8A%AC%E5%A4%B4%E4%B8%8D%E5%90%AC%E8%AF%BE%E4%B8%8D%E4%BA%A4%E6%B5%81%E2%80%9D",
+     "n": 6274093,
+     "d": "近期，多地高校师生反映大学课堂变得沉默，学生不抬头、不听课、不交流现象普遍。不少大学采取督导听课、手机入袋等措施考核“抬"
+    },
+    {
+     "t": "财政部将在香港发行美元主权债券",
+     "u": "https://www.baidu.com/s?wd=%E8%B4%A2%E6%94%BF%E9%83%A8%E5%B0%86%E5%9C%A8%E9%A6%99%E6%B8%AF%E5%8F%91%E8%A1%8C%E7%BE%8E%E5%85%83%E4%B8%BB%E6%9D%83%E5%80%BA%E5%88%B8",
+     "n": 6186495,
+     "d": "经国务院批准，财政部将于2026年11月16日当周在香港特别行政区发行美元主权债券，规模不超过20亿美元。具体发行安排将"
+    },
+    {
+     "t": "胡先煦简直在演我减肥",
+     "u": "https://www.baidu.com/s?wd=%E8%83%A1%E5%85%88%E7%85%A6%E7%AE%80%E7%9B%B4%E5%9C%A8%E6%BC%94%E6%88%91%E5%87%8F%E8%82%A5",
+     "n": 6094579,
+     "d": "近日，胡先煦参加《现在就出发》一直在吃坚果，说自己吃坚果嘴皮都长泡了，发誓坚决不吃了，网友辣评简直在演我减肥。"
+    },
+    {
+     "t": "惠英红发文祝贺梁家辉高叶获奖",
+     "u": "https://www.baidu.com/s?wd=%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%8F%91%E6%96%87%E7%A5%9D%E8%B4%BA%E6%A2%81%E5%AE%B6%E8%BE%89%E9%AB%98%E5%8F%B6%E8%8E%B7%E5%A5%96",
+     "n": 5995158,
+     "d": "11月11日下午，惠英红发文祝贺梁家辉、高叶获第39届金鸡奖最佳男女主角。她表示亲眼见证老友家辉拿到自己最想要的金鸡奖激"
+    },
+    {
+     "t": "解放军飞行员与外机极限对峙20分钟",
+     "u": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%E4%B8%8E%E5%A4%96%E6%9C%BA%E6%9E%81%E9%99%90%E5%AF%B9%E5%B3%9920%E5%88%86%E9%92%9F",
+     "n": 5897768,
+     "d": "解放军空军飞行员步佳文、张敏捷驾机升空，对抵近挑衅、无视警告的外机展开长达二十分钟极限对峙，双方一度处于彼此武器射程内。"
+    },
+    {
+     "t": "Anthropic世纪IPO恐成AI行情高点",
+     "u": "https://www.baidu.com/s?wd=Anthropic%E4%B8%96%E7%BA%AAIPO%E6%81%90%E6%88%90AI%E8%A1%8C%E6%83%85%E9%AB%98%E7%82%B9",
+     "n": 5794027,
+     "d": "11月11日，创投公司Copper Sky负责人Jack Selby表示，Anthropic的首次公开募股可能面临成为A"
+    },
+    {
+     "t": "微信为什么要有拍一拍？官方揭秘",
+     "u": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%9C%89%E6%8B%8D%E4%B8%80%E6%8B%8D%EF%BC%9F%E5%AE%98%E6%96%B9%E6%8F%AD%E7%A7%98",
+     "n": 5708485,
+     "d": "11月11日，微信官方揭秘“拍一拍”功能设计初衷。微信表示，该功能灵感来自蚂蚁触角碰一碰，旨在提供更轻松、无压力的打招呼"
+    },
+    {
+     "t": "马天宇：现在所有人见了我都送马克杯",
+     "u": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%A4%A9%E5%AE%87%EF%BC%9A%E7%8E%B0%E5%9C%A8%E6%89%80%E6%9C%89%E4%BA%BA%E8%A7%81%E4%BA%86%E6%88%91%E9%83%BD%E9%80%81%E9%A9%AC%E5%85%8B%E6%9D%AF",
+     "n": 5600143,
+     "d": "近日，马天宇坦言被人狂送马克杯。此前在综艺《后会友期》中，张萌与马天宇断联十年重逢后，拿出各地收集的绝版马克杯将马天宇看"
+    },
+    {
+     "t": "假如BLG夺冠 谁会成为商业大赢家",
+     "u": "https://www.baidu.com/s?wd=%E5%81%87%E5%A6%82BLG%E5%A4%BA%E5%86%A0+%E8%B0%81%E4%BC%9A%E6%88%90%E4%B8%BA%E5%95%86%E4%B8%9A%E5%A4%A7%E8%B5%A2%E5%AE%B6",
+     "n": 5503046,
+     "d": "BLG淘汰T1闯进决赛，即便最终结果未定，它已是本届S赛商业层面的赢家。雷鸟推出限定眼镜反向退款活动押注夺冠，罗技、转转"
+    },
+    {
+     "t": "高叶含泪感谢同班同学朱一龙",
+     "u": "https://www.baidu.com/s?wd=%E9%AB%98%E5%8F%B6%E5%90%AB%E6%B3%AA%E6%84%9F%E8%B0%A2%E5%90%8C%E7%8F%AD%E5%90%8C%E5%AD%A6%E6%9C%B1%E4%B8%80%E9%BE%99",
+     "n": 5411693,
+     "d": "近日，金鸡奖颁奖典礼上，高叶含泪感谢同班同学朱一龙。朱一龙也哽咽地送上祝福，表示“你做到了，恭喜”。高叶称这份祝福包含着"
+    },
+    {
+     "t": "137页爱泼斯坦调查报告公布",
+     "u": "https://www.baidu.com/s?wd=137%E9%A1%B5%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83",
+     "n": 5336057,
+     "d": "美国众议院共和党人在10号公布137页爱泼斯坦调查报告，指政府严重失职，且未发现特朗普涉案证据。随后，民主党人批评报告不"
+    },
+    {
+     "t": "油价预计下调440元/吨",
+     "u": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E4%B8%8B%E8%B0%83440%E5%85%83%2F%E5%90%A8",
+     "n": 5223887,
+     "d": "11月11日为新一轮油价调整周期第9个工作日，预计下调440元/吨，折合每升下跌0.33至0.40元。本轮油价调整窗口将"
+    },
+    {
+     "t": "美国一女子称拍到巨型水母状飞行物",
+     "u": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%8B%8D%E5%88%B0%E5%B7%A8%E5%9E%8B%E6%B0%B4%E6%AF%8D%E7%8A%B6%E9%A3%9E%E8%A1%8C%E7%89%A9",
+     "n": 5127000,
+     "d": ""
+    },
+    {
+     "t": "嘀嗒司机嘲讽乘客：没送到你家坟头吗",
+     "u": "https://www.baidu.com/s?wd=%E5%98%80%E5%97%92%E5%8F%B8%E6%9C%BA%E5%98%B2%E8%AE%BD%E4%B9%98%E5%AE%A2%EF%BC%9A%E6%B2%A1%E9%80%81%E5%88%B0%E4%BD%A0%E5%AE%B6%E5%9D%9F%E5%A4%B4%E5%90%97",
+     "n": 5039783,
+     "d": "近日，张先生反映，10月初，老家大伯病危，他通过嘀嗒出行平台预约顺风车，从上海赶回江苏沭阳老家。不料途中遭遇司机接人超时"
+    },
+    {
+     "t": "“出现尾烟就打！一换一”",
+     "u": "https://www.baidu.com/s?wd=%E2%80%9C%E5%87%BA%E7%8E%B0%E5%B0%BE%E7%83%9F%E5%B0%B1%E6%89%93%EF%BC%81%E4%B8%80%E6%8D%A2%E4%B8%80%E2%80%9D",
+     "n": 4953575,
+     "d": "11月11日，中国空军飞行员驱离外机详细过程曝光。外机无视我方喊话警告进入武器射程，我军飞行员表示“出现尾烟就打！一换一"
+    },
+    {
+     "t": "特斯拉中国紧急提醒：切勿点击",
+     "u": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%EF%BC%9A%E5%88%87%E5%8B%BF%E7%82%B9%E5%87%BB",
+     "n": 4843849,
+     "d": "11月11日，特斯拉中国官方回应网传“召回并赔偿2800元”短信系诈骗，提醒车主切勿点击相关链接，以防个人信息泄露及财产"
+    },
+    {
+     "t": "Anthropic估值缩水冲IPO 不等2万亿了",
+     "u": "https://www.baidu.com/s?wd=Anthropic%E4%BC%B0%E5%80%BC%E7%BC%A9%E6%B0%B4%E5%86%B2IPO+%E4%B8%8D%E7%AD%892%E4%B8%87%E4%BA%BF%E4%BA%86",
+     "n": 4741988,
+     "d": "当地时间11月10日，Anthropic启动IPO路演，完全摊薄口径估值上限约1.4万亿美元。此前市场预期其估值达2万亿"
+    },
+    {
+     "t": "“碰瓷王”落网 一年作案200余起",
+     "u": "https://www.baidu.com/s?wd=%E2%80%9C%E7%A2%B0%E7%93%B7%E7%8E%8B%E2%80%9D%E8%90%BD%E7%BD%91+%E4%B8%80%E5%B9%B4%E4%BD%9C%E6%A1%88200%E4%BD%99%E8%B5%B7",
+     "n": 4665008,
+     "d": "近期，上海警方抓获6名涉嫌碰瓷诈骗的嫌疑人，朱某与崔某已被刑事拘留。此前，前网约车司机朱某自2025年起驾车故意撞击变道"
+    },
+    {
+     "t": "2026年或成史上最暖",
+     "u": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E6%88%96%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%9A%96",
+     "n": 4562677,
+     "d": ""
+    },
+    {
+     "t": "蔡天凤前夫兄长当庭指认弟弟是真凶",
+     "u": "https://www.baidu.com/s?wd=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%89%8D%E5%A4%AB%E5%85%84%E9%95%BF%E5%BD%93%E5%BA%AD%E6%8C%87%E8%AE%A4%E5%BC%9F%E5%BC%9F%E6%98%AF%E7%9C%9F%E5%87%B6",
+     "n": 4474905,
+     "d": "11月11日，香港名媛蔡天凤碎尸案进入第35日审讯，前夫兄长邝港杰当庭否认杀害蔡天凤，在律师追问下哽咽指认弟弟邝港智是真"
+    },
+    {
+     "t": "幼儿园陆续消失 育儿焦虑退潮",
+     "u": "https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%99%86%E7%BB%AD%E6%B6%88%E5%A4%B1+%E8%82%B2%E5%84%BF%E7%84%A6%E8%99%91%E9%80%80%E6%BD%AE",
+     "n": 4350826,
+     "d": "截至2025年，全国幼儿园数量较2021年峰值减少6.29万所。2016年生育高峰期，家长曾面临建档难、入园难。随着出生"
+    },
+    {
+     "t": "离岸信托收益征税10月入库超1200亿元",
+     "u": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%B2%B8%E4%BF%A1%E6%89%98%E6%94%B6%E7%9B%8A%E5%BE%81%E7%A8%8E10%E6%9C%88%E5%85%A5%E5%BA%93%E8%B6%851200%E4%BA%BF%E5%85%83",
+     "n": 4268244,
+     "d": "目前，离岸信托收益征税政策过渡期已平稳结束，绝大多数纳税人积极配合，累计申报离岸信托个人所得税超1600亿元，其中10月"
+    },
+    {
+     "t": "中方回应“中日领导人是否将会晤”",
+     "u": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B8%AD%E6%97%A5%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4%E2%80%9D",
+     "n": 4158396,
+     "d": "11月11日，外交部发言人郭嘉昆主持例行记者会。针对法新社记者关于APEC峰会上中日领导人是否会晤及讨论议题的提问，郭嘉"
+    },
+    {
+     "t": "保安在停车场车轮旁放钉子 画面曝光",
+     "u": "https://www.baidu.com/s?wd=%E4%BF%9D%E5%AE%89%E5%9C%A8%E5%81%9C%E8%BD%A6%E5%9C%BA%E8%BD%A6%E8%BD%AE%E6%97%81%E6%94%BE%E9%92%89%E5%AD%90+%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
+     "n": 4100390,
+     "d": ""
+    },
+    {
+     "t": "双十一 中国空军在全球“开麦”",
+     "u": "https://www.baidu.com/s?wd=%E5%8F%8C%E5%8D%81%E4%B8%80+%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9C%A8%E5%85%A8%E7%90%83%E2%80%9C%E5%BC%80%E9%BA%A6%E2%80%9D",
+     "n": 4004081,
+     "d": "11月11日空军节11时11分，中国空军（China Air Force）打出一张亮眼的牌一一海外社交平台官方账号正式开"
+    },
+    {
+     "t": "光模块大爆发",
+     "u": "https://www.baidu.com/s?wd=%E5%85%89%E6%A8%A1%E5%9D%97%E5%A4%A7%E7%88%86%E5%8F%91",
+     "n": 3906953,
+     "d": "11月11日，A股主要股指集体收红。盘面上，通信设备、电子元器件、半导体等行业板块涨幅居前；概念板块方面，光模块（CPO"
+    },
+    {
+     "t": "高叶：不做表演的熟练工",
+     "u": "https://www.baidu.com/s?wd=%E9%AB%98%E5%8F%B6%EF%BC%9A%E4%B8%8D%E5%81%9A%E8%A1%A8%E6%BC%94%E7%9A%84%E7%86%9F%E7%BB%83%E5%B7%A5",
+     "n": 3810288,
+     "d": "11月10日晚，第39届中国电影金鸡奖颁奖典礼在福建厦门举行。高叶凭借《南京照相馆》获得最佳女主角，她在现场哽咽落泪。受"
+    },
+    {
+     "t": "张雪改口 不捐给韩红基金会了",
+     "u": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%94%B9%E5%8F%A3+%E4%B8%8D%E6%8D%90%E7%BB%99%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BA%86",
+     "n": 3695537,
+     "d": "近日，张雪发视频改口，53号冠军赛车拍卖款不再捐给韩红基金会。他称“发生了一些事情，内心有质疑”，宣布22日拍卖所得全部"
+    },
+    {
+     "t": "退款的风终于吹向了港股IPO",
+     "u": "https://www.baidu.com/s?wd=%E9%80%80%E6%AC%BE%E7%9A%84%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%90%91%E4%BA%86%E6%B8%AF%E8%82%A1IPO",
+     "n": 3615525,
+     "d": "11月4日，和美药业在招股截止日宣布延迟港股上市并退款。近期不到两月已有4家公司临停发行，2026年以来已合计有6家公司"
+    },
+    {
+     "t": "外卖小哥入职第一天救下两名坠河男子",
+     "u": "https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%85%A5%E8%81%8C%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%95%91%E4%B8%8B%E4%B8%A4%E5%90%8D%E5%9D%A0%E6%B2%B3%E7%94%B7%E5%AD%90",
+     "n": 3519671,
+     "d": ""
+    },
+    {
+     "t": "国家发展改革委：有序推进小班化教学",
+     "u": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%B1%95%E6%94%B9%E9%9D%A9%E5%A7%94%EF%BC%9A%E6%9C%89%E5%BA%8F%E6%8E%A8%E8%BF%9B%E5%B0%8F%E7%8F%AD%E5%8C%96%E6%95%99%E5%AD%A6",
+     "n": 3411043,
+     "d": ""
+    },
+    {
+     "t": "多地最低工资标准上调 谁将受益",
+     "u": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%E4%B8%8A%E8%B0%83+%E8%B0%81%E5%B0%86%E5%8F%97%E7%9B%8A",
+     "n": 3328827,
+     "d": "今年多地上调最低工资，多地一档标准均突破2000元。基层服务业劳动者直接受益，试用期工资、工伤津贴等待遇同步抬升。政策兼"
+    },
+    {
+     "t": "全国河蟹又来上海“打擂”了",
+     "u": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%B2%B3%E8%9F%B9%E5%8F%88%E6%9D%A5%E4%B8%8A%E6%B5%B7%E2%80%9C%E6%89%93%E6%93%82%E2%80%9D%E4%BA%86",
+     "n": 3214764,
+     "d": ""
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "douyin",
+   "name": "抖音热榜",
+   "sub": "实时",
+   "region": "cn",
+   "home": "https://www.douyin.com/hot",
+   "unit": "",
+   "items": [
+    {
+     "t": "开拓者123:103雷霆",
+     "u": "https://www.douyin.com/search/%E5%BC%80%E6%8B%93%E8%80%85123%3A103%E9%9B%B7%E9%9C%86",
+     "n": 11509087,
+     "d": ""
+    },
+    {
+     "t": "大理初雪把风花雪月具象化了",
+     "u": "https://www.douyin.com/search/%E5%A4%A7%E7%90%86%E5%88%9D%E9%9B%AA%E6%8A%8A%E9%A3%8E%E8%8A%B1%E9%9B%AA%E6%9C%88%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86",
+     "n": 11505424,
+     "d": ""
+    },
+    {
+     "t": "进博会激活消费新活力",
+     "u": "https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E6%BF%80%E6%B4%BB%E6%B6%88%E8%B4%B9%E6%96%B0%E6%B4%BB%E5%8A%9B",
+     "n": 11149614,
+     "d": ""
+    },
+    {
+     "t": "在北京定格专属我们的浪漫瞬间",
+     "u": "https://www.douyin.com/search/%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%AE%9A%E6%A0%BC%E4%B8%93%E5%B1%9E%E6%88%91%E4%BB%AC%E7%9A%84%E6%B5%AA%E6%BC%AB%E7%9E%AC%E9%97%B4",
+     "n": 11121601,
+     "d": ""
+    },
+    {
+     "t": "人民空军成立77周年",
+     "u": "https://www.douyin.com/search/%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E6%88%90%E7%AB%8B77%E5%91%A8%E5%B9%B4",
+     "n": 10526569,
+     "d": ""
+    },
+    {
+     "t": "新一轮俄美乌三方会谈",
+     "u": "https://www.douyin.com/search/%E6%96%B0%E4%B8%80%E8%BD%AE%E4%BF%84%E7%BE%8E%E4%B9%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88",
+     "n": 10393703,
+     "d": ""
+    },
+    {
+     "t": "人民锐评“画地为牢”出圈",
+     "u": "https://www.douyin.com/search/%E4%BA%BA%E6%B0%91%E9%94%90%E8%AF%84%E2%80%9C%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E2%80%9D%E5%87%BA%E5%9C%88",
+     "n": 9288959,
+     "d": ""
+    },
+    {
+     "t": "中国人的故事为何总有一棵树",
+     "u": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%95%85%E4%BA%8B%E4%B8%BA%E4%BD%95%E6%80%BB%E6%9C%89%E4%B8%80%E6%A3%B5%E6%A0%91",
+     "n": 9270922,
+     "d": ""
+    },
+    {
+     "t": "人艺戏骨演绎溺爱之祸反腐剧开播",
+     "u": "https://www.douyin.com/search/%E4%BA%BA%E8%89%BA%E6%88%8F%E9%AA%A8%E6%BC%94%E7%BB%8E%E6%BA%BA%E7%88%B1%E4%B9%8B%E7%A5%B8%E5%8F%8D%E8%85%90%E5%89%A7%E5%BC%80%E6%92%AD",
+     "n": 9226457,
+     "d": ""
+    },
+    {
+     "t": "足球运动员集体在抖音晒年终奖杯",
+     "u": "https://www.douyin.com/search/%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E9%9B%86%E4%BD%93%E5%9C%A8%E6%8A%96%E9%9F%B3%E6%99%92%E5%B9%B4%E7%BB%88%E5%A5%96%E6%9D%AF",
+     "n": 9207022,
+     "d": ""
+    },
+    {
+     "t": "秋日实况加了什么好有氛围感",
+     "u": "https://www.douyin.com/search/%E7%A7%8B%E6%97%A5%E5%AE%9E%E5%86%B5%E5%8A%A0%E4%BA%86%E4%BB%80%E4%B9%88%E5%A5%BD%E6%9C%89%E6%B0%9B%E5%9B%B4%E6%84%9F",
+     "n": 9170306,
+     "d": ""
+    },
+    {
+     "t": "护航消费季 名著人物话辟谣",
+     "u": "https://www.douyin.com/search/%E6%8A%A4%E8%88%AA%E6%B6%88%E8%B4%B9%E5%AD%A3%20%E5%90%8D%E8%91%97%E4%BA%BA%E7%89%A9%E8%AF%9D%E8%BE%9F%E8%B0%A3",
+     "n": 9145654,
+     "d": ""
+    },
+    {
+     "t": "我往这你不炸了吗对口型挑战",
+     "u": "https://www.douyin.com/search/%E6%88%91%E5%BE%80%E8%BF%99%E4%BD%A0%E4%B8%8D%E7%82%B8%E4%BA%86%E5%90%97%E5%AF%B9%E5%8F%A3%E5%9E%8B%E6%8C%91%E6%88%98",
+     "n": 9124964,
+     "d": ""
+    },
+    {
+     "t": "凯尔特人大胜76人",
+     "u": "https://www.douyin.com/search/%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%E5%A4%A7%E8%83%9C76%E4%BA%BA",
+     "n": 8891737,
+     "d": ""
+    },
+    {
+     "t": "扬州江都发生3.9级地震",
+     "u": "https://www.douyin.com/search/%E6%89%AC%E5%B7%9E%E6%B1%9F%E9%83%BD%E5%8F%91%E7%94%9F3.9%E7%BA%A7%E5%9C%B0%E9%9C%87",
+     "n": 8720631,
+     "d": ""
+    },
+    {
+     "t": "罗大佑怒批赖清德",
+     "u": "https://www.douyin.com/search/%E7%BD%97%E5%A4%A7%E4%BD%91%E6%80%92%E6%89%B9%E8%B5%96%E6%B8%85%E5%BE%B7",
+     "n": 8422386,
+     "d": ""
+    },
+    {
+     "t": "遵义男子盗杀网红金毛卖300元",
+     "u": "https://www.douyin.com/search/%E9%81%B5%E4%B9%89%E7%94%B7%E5%AD%90%E7%9B%97%E6%9D%80%E7%BD%91%E7%BA%A2%E9%87%91%E6%AF%9B%E5%8D%96300%E5%85%83",
+     "n": 8415230,
+     "d": ""
+    },
+    {
+     "t": "给阿嬷的情书获金鸡奖最佳编剧奖",
+     "u": "https://www.douyin.com/search/%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%BC%96%E5%89%A7%E5%A5%96",
+     "n": 8373485,
+     "d": ""
+    },
+    {
+     "t": "你又在和别人聊天吗",
+     "u": "https://www.douyin.com/search/%E4%BD%A0%E5%8F%88%E5%9C%A8%E5%92%8C%E5%88%AB%E4%BA%BA%E8%81%8A%E5%A4%A9%E5%90%97",
+     "n": 8166233,
+     "d": ""
+    },
+    {
+     "t": "你怎么能这么说我呢",
+     "u": "https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%83%BD%E8%BF%99%E4%B9%88%E8%AF%B4%E6%88%91%E5%91%A2",
+     "n": 8115683,
+     "d": ""
+    },
+    {
+     "t": "许飞的穿搭功力恐怕在我之下",
+     "u": "https://www.douyin.com/search/%E8%AE%B8%E9%A3%9E%E7%9A%84%E7%A9%BF%E6%90%AD%E5%8A%9F%E5%8A%9B%E6%81%90%E6%80%95%E5%9C%A8%E6%88%91%E4%B9%8B%E4%B8%8B",
+     "n": 8113125,
+     "d": ""
+    },
+    {
+     "t": "萌宠的表面心连心太上头了",
+     "u": "https://www.douyin.com/search/%E8%90%8C%E5%AE%A0%E7%9A%84%E8%A1%A8%E9%9D%A2%E5%BF%83%E8%BF%9E%E5%BF%83%E5%A4%AA%E4%B8%8A%E5%A4%B4%E4%BA%86",
+     "n": 8048728,
+     "d": ""
+    },
+    {
+     "t": "当一次MV女主角",
+     "u": "https://www.douyin.com/search/%E5%BD%93%E4%B8%80%E6%AC%A1MV%E5%A5%B3%E4%B8%BB%E8%A7%92",
+     "n": 7946532,
+     "d": ""
+    },
+    {
+     "t": "邓家佳 欢迎来到肌肉时代",
+     "u": "https://www.douyin.com/search/%E9%82%93%E5%AE%B6%E4%BD%B3%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E8%82%8C%E8%82%89%E6%97%B6%E4%BB%A3",
+     "n": 7837949,
+     "d": ""
+    },
+    {
+     "t": "和平精英新版本冰雪阿勒泰全攻略",
+     "u": "https://www.douyin.com/search/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E6%96%B0%E7%89%88%E6%9C%AC%E5%86%B0%E9%9B%AA%E9%98%BF%E5%8B%92%E6%B3%B0%E5%85%A8%E6%94%BB%E7%95%A5",
+     "n": 7824232,
+     "d": ""
+    },
+    {
+     "t": "马嘉祺是另一个齐景明",
+     "u": "https://www.douyin.com/search/%E9%A9%AC%E5%98%89%E7%A5%BA%E6%98%AF%E5%8F%A6%E4%B8%80%E4%B8%AA%E9%BD%90%E6%99%AF%E6%98%8E",
+     "n": 7782357,
+     "d": ""
+    },
+    {
+     "t": "星穹铁道星神阿哈上线",
+     "u": "https://www.douyin.com/search/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E6%98%9F%E7%A5%9E%E9%98%BF%E5%93%88%E4%B8%8A%E7%BA%BF",
+     "n": 7773539,
+     "d": ""
+    },
+    {
+     "t": "国内成品油价格或迎下调",
+     "u": "https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%A0%BC%E6%88%96%E8%BF%8E%E4%B8%8B%E8%B0%83",
+     "n": 7760716,
+     "d": ""
+    },
+    {
+     "t": "慌啥子嘛慢慢来",
+     "u": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E6%85%A2%E6%85%A2%E6%9D%A5",
+     "n": 7760669,
+     "d": ""
+    },
+    {
+     "t": "五官这下真的是各过各的了",
+     "u": "https://www.douyin.com/search/%E4%BA%94%E5%AE%98%E8%BF%99%E4%B8%8B%E7%9C%9F%E7%9A%84%E6%98%AF%E5%90%84%E8%BF%87%E5%90%84%E7%9A%84%E4%BA%86",
+     "n": 7758308,
+     "d": ""
+    },
+    {
+     "t": "无畏契约11月12日更新公告",
+     "u": "https://www.douyin.com/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A611%E6%9C%8812%E6%97%A5%E6%9B%B4%E6%96%B0%E5%85%AC%E5%91%8A",
+     "n": 7756733,
+     "d": ""
+    },
+    {
+     "t": "跟白鹿一起变身毛茸茸",
+     "u": "https://www.douyin.com/search/%E8%B7%9F%E7%99%BD%E9%B9%BF%E4%B8%80%E8%B5%B7%E5%8F%98%E8%BA%AB%E6%AF%9B%E8%8C%B8%E8%8C%B8",
+     "n": 7735125,
+     "d": ""
+    },
+    {
+     "t": "梁家辉第39届金鸡奖最佳男主角",
+     "u": "https://www.douyin.com/search/%E6%A2%81%E5%AE%B6%E8%BE%89%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92",
+     "n": 7732469,
+     "d": ""
+    },
+    {
+     "t": "高叶获第39届金鸡奖最佳女主角",
+     "u": "https://www.douyin.com/search/%E9%AB%98%E5%8F%B6%E8%8E%B7%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92",
+     "n": 7729631,
+     "d": ""
+    },
+    {
+     "t": "兰西雅获金鸡奖最佳女配角",
+     "u": "https://www.douyin.com/search/%E5%85%B0%E8%A5%BF%E9%9B%85%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92",
+     "n": 7728668,
+     "d": ""
+    },
+    {
+     "t": "黄金时代的可人儿集体发力了",
+     "u": "https://www.douyin.com/search/%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8F%AF%E4%BA%BA%E5%84%BF%E9%9B%86%E4%BD%93%E5%8F%91%E5%8A%9B%E4%BA%86",
+     "n": 7728520,
+     "d": ""
+    },
+    {
+     "t": "所有人感受李思潼金鸡怼脸拍",
+     "u": "https://www.douyin.com/search/%E6%89%80%E6%9C%89%E4%BA%BA%E6%84%9F%E5%8F%97%E6%9D%8E%E6%80%9D%E6%BD%BC%E9%87%91%E9%B8%A1%E6%80%BC%E8%84%B8%E6%8B%8D",
+     "n": 7728067,
+     "d": ""
+    },
+    {
+     "t": "吴克群用桂林好柿交换全国特产",
+     "u": "https://www.douyin.com/search/%E5%90%B4%E5%85%8B%E7%BE%A4%E7%94%A8%E6%A1%82%E6%9E%97%E5%A5%BD%E6%9F%BF%E4%BA%A4%E6%8D%A2%E5%85%A8%E5%9B%BD%E7%89%B9%E4%BA%A7",
+     "n": 7727532,
+     "d": ""
+    },
+    {
+     "t": "人类有自己的毛茸茸宇宙",
+     "u": "https://www.douyin.com/search/%E4%BA%BA%E7%B1%BB%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%AF%9B%E8%8C%B8%E8%8C%B8%E5%AE%87%E5%AE%99",
+     "n": 7724086,
+     "d": ""
+    },
+    {
+     "t": "尖牙小黑猫萌到犯规了",
+     "u": "https://www.douyin.com/search/%E5%B0%96%E7%89%99%E5%B0%8F%E9%BB%91%E7%8C%AB%E8%90%8C%E5%88%B0%E7%8A%AF%E8%A7%84%E4%BA%86",
+     "n": 7719074,
+     "d": ""
+    },
+    {
+     "t": "和平精英冰雪阿勒泰冬游记",
+     "u": "https://www.douyin.com/search/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E5%86%B0%E9%9B%AA%E9%98%BF%E5%8B%92%E6%B3%B0%E5%86%AC%E6%B8%B8%E8%AE%B0",
+     "n": 7714429,
+     "d": ""
+    },
+    {
+     "t": "草根团队做出爆款AI漫剧持械入宋",
+     "u": "https://www.douyin.com/search/%E8%8D%89%E6%A0%B9%E5%9B%A2%E9%98%9F%E5%81%9A%E5%87%BA%E7%88%86%E6%AC%BEAI%E6%BC%AB%E5%89%A7%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B",
+     "n": 7707294,
+     "d": ""
+    },
+    {
+     "t": "权威展示allwhite穿搭",
+     "u": "https://www.douyin.com/search/%E6%9D%83%E5%A8%81%E5%B1%95%E7%A4%BAallwhite%E7%A9%BF%E6%90%AD",
+     "n": 7705826,
+     "d": ""
+    },
+    {
+     "t": "X教授万磁王联手对抗毁灭博士",
+     "u": "https://www.douyin.com/search/X%E6%95%99%E6%8E%88%E4%B8%87%E7%A3%81%E7%8E%8B%E8%81%94%E6%89%8B%E5%AF%B9%E6%8A%97%E6%AF%81%E7%81%AD%E5%8D%9A%E5%A3%AB",
+     "n": 7701141,
+     "d": ""
+    },
+    {
+     "t": "网购一个家系列",
+     "u": "https://www.douyin.com/search/%E7%BD%91%E8%B4%AD%E4%B8%80%E4%B8%AA%E5%AE%B6%E7%B3%BB%E5%88%97",
+     "n": 7698566,
+     "d": ""
+    },
+    {
+     "t": "走进毛茸茸的黄金时代",
+     "u": "https://www.douyin.com/search/%E8%B5%B0%E8%BF%9B%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3",
+     "n": 7698206,
+     "d": ""
+    },
+    {
+     "t": "为什么人们怀念千禧风穿搭",
+     "u": "https://www.douyin.com/search/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E6%80%80%E5%BF%B5%E5%8D%83%E7%A6%A7%E9%A3%8E%E7%A9%BF%E6%90%AD",
+     "n": 7697312,
+     "d": ""
+    },
+    {
+     "t": "格温cos一出场好甜",
+     "u": "https://www.douyin.com/search/%E6%A0%BC%E6%B8%A9cos%E4%B8%80%E5%87%BA%E5%9C%BA%E5%A5%BD%E7%94%9C",
+     "n": 7696216,
+     "d": ""
+    },
+    {
+     "t": "曾舜晞伯爵神之十秒",
+     "u": "https://www.douyin.com/search/%E6%9B%BE%E8%88%9C%E6%99%9E%E4%BC%AF%E7%88%B5%E7%A5%9E%E4%B9%8B%E5%8D%81%E7%A7%92",
+     "n": 7695302,
+     "d": ""
+    },
+    {
+     "t": "火影热血番冬日解冻了",
+     "u": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E7%83%AD%E8%A1%80%E7%95%AA%E5%86%AC%E6%97%A5%E8%A7%A3%E5%86%BB%E4%BA%86",
+     "n": 7695166,
+     "d": ""
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "toutiao",
+   "name": "今日头条",
+   "sub": "热点",
+   "region": "cn",
+   "home": "https://www.toutiao.com/",
+   "unit": "",
+   "items": [
+    {
+     "t": "中方回应中日领导人APEC是否会晤",
+     "u": "https://www.toutiao.com/trending/7706808711805633051/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706808711805633051%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%97%A5%E9%A2%86%E5%AF%BC%E4%BA%BAAPEC%E6%98%AF%E5%90%A6%E4%BC%9A%E6%99%A4%22%7D&rank=&style_id=40132&topic_id=7706808711805633051",
+     "n": 15397080,
+     "d": ""
+    },
+    {
+     "t": "外交部：中方没兴趣干涉加拿大内政",
+     "u": "https://www.toutiao.com/trending/7706810105932841481/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706810105932841481%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E6%B2%A1%E5%85%B4%E8%B6%A3%E5%B9%B2%E6%B6%89%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%86%85%E6%94%BF%22%7D&rank=&style_id=40132&topic_id=7706810105932841481",
+     "n": 13931854,
+     "d": ""
+    },
+    {
+     "t": "外国友人眼中的APEC“中国年”",
+     "u": "https://www.toutiao.com/article/7706739758399013412",
+     "n": 12606063,
+     "d": ""
+    },
+    {
+     "t": "“包子2元停车10元”成历史",
+     "u": "https://www.toutiao.com/trending/7706731142883852324/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706731142883852324%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E5%8C%85%E5%AD%902%E5%85%83%E5%81%9C%E8%BD%A610%E5%85%83%E2%80%9D%E6%88%90%E5%8E%86%E5%8F%B2%22%7D&rank=&style_id=40132&topic_id=7706731142883852324",
+     "n": 11406437,
+     "d": ""
+    },
+    {
+     "t": "俄美乌第二日三方会谈已结束",
+     "u": "https://www.toutiao.com/trending/7706085092292263990/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706085092292263990%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E7%BE%8E%E4%B9%8C%E7%AC%AC%E4%BA%8C%E6%97%A5%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88%E5%B7%B2%E7%BB%93%E6%9D%9F%22%7D&rank=&style_id=40132&topic_id=7706085092292263990",
+     "n": 10320971,
+     "d": "new"
+    },
+    {
+     "t": "央媒披露我军飞行员驱离外机细节",
+     "u": "https://www.toutiao.com/trending/7706573883469693466/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2216%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706573883469693466%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AE%E5%AA%92%E6%8A%AB%E9%9C%B2%E6%88%91%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%E9%A9%B1%E7%A6%BB%E5%A4%96%E6%9C%BA%E7%BB%86%E8%8A%82%22%7D&rank=&style_id=40132&topic_id=7706573883469693466",
+     "n": 9338801,
+     "d": ""
+    },
+    {
+     "t": "张雪：公司今年工资大概率普涨10%",
+     "u": "https://www.toutiao.com/trending/7705719475533840438/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227705719475533840438%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%A0%E9%9B%AA%EF%BC%9A%E5%85%AC%E5%8F%B8%E4%BB%8A%E5%B9%B4%E5%B7%A5%E8%B5%84%E5%A4%A7%E6%A6%82%E7%8E%87%E6%99%AE%E6%B6%A810%25%22%7D&rank=&style_id=40132&topic_id=7705719475533840438",
+     "n": 8450096,
+     "d": ""
+    },
+    {
+     "t": "浙江大降温 499元羽绒服十分火爆",
+     "u": "https://www.toutiao.com/trending/7705956528020504626/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227705956528020504626%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B5%99%E6%B1%9F%E5%A4%A7%E9%99%8D%E6%B8%A9+499%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%81%E5%88%86%E7%81%AB%E7%88%86%22%7D&rank=&style_id=40132&topic_id=7705956528020504626",
+     "n": 7645963,
+     "d": "new"
+    },
+    {
+     "t": "油价有望迎来下调",
+     "u": "https://www.toutiao.com/trending/7706746485031633417/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2216%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706746485031633417%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B2%B9%E4%BB%B7%E6%9C%89%E6%9C%9B%E8%BF%8E%E6%9D%A5%E4%B8%8B%E8%B0%83%22%7D&rank=&style_id=40132&topic_id=7706746485031633417",
+     "n": 6918354,
+     "d": ""
+    },
+    {
+     "t": "罗大佑炮轰赖清德：不要脸到家了",
+     "u": "https://www.toutiao.com/trending/7706355468922683435/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706355468922683435%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%97%E5%A4%A7%E4%BD%91%E7%82%AE%E8%BD%B0%E8%B5%96%E6%B8%85%E5%BE%B7%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%84%B8%E5%88%B0%E5%AE%B6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7706355468922683435",
+     "n": 6259985,
+     "d": ""
+    },
+    {
+     "t": "护航消费季│三国营中逢诡计",
+     "u": "https://www.toutiao.com/trending/7706718932622671923/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706718932622671923%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8A%A4%E8%88%AA%E6%B6%88%E8%B4%B9%E5%AD%A3%E2%94%82%E4%B8%89%E5%9B%BD%E8%90%A5%E4%B8%AD%E9%80%A2%E8%AF%A1%E8%AE%A1%22%7D&rank=&style_id=40132&topic_id=7706718932622671923",
+     "n": 5664269,
+     "d": "refuteRumors"
+    },
+    {
+     "t": "猪价跌成“白菜价” 这猪还养不养了",
+     "u": "https://www.toutiao.com/trending/7706827815848513060/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706827815848513060%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8C%AA%E4%BB%B7%E8%B7%8C%E6%88%90%E2%80%9C%E7%99%BD%E8%8F%9C%E4%BB%B7%E2%80%9D+%E8%BF%99%E7%8C%AA%E8%BF%98%E5%85%BB%E4%B8%8D%E5%85%BB%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7706827815848513060",
+     "n": 5125242,
+     "d": ""
+    },
+    {
+     "t": "18岁少女检出18种HPV亚型阳性",
+     "u": "https://www.toutiao.com/trending/7706691141202969115/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706691141202969115%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2218%E5%B2%81%E5%B0%91%E5%A5%B3%E6%A3%80%E5%87%BA18%E7%A7%8DHPV%E4%BA%9A%E5%9E%8B%E9%98%B3%E6%80%A7%22%7D&rank=&style_id=40132&topic_id=7706691141202969115",
+     "n": 4637511,
+     "d": "new"
+    },
+    {
+     "t": "泽连斯基：俄乌谈判欧洲人应上桌",
+     "u": "https://www.toutiao.com/trending/7706605727498125875/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706605727498125875%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%BF%84%E4%B9%8C%E8%B0%88%E5%88%A4%E6%AC%A7%E6%B4%B2%E4%BA%BA%E5%BA%94%E4%B8%8A%E6%A1%8C%22%7D&rank=&style_id=40132&topic_id=7706605727498125875",
+     "n": 4196193,
+     "d": "new"
+    },
+    {
+     "t": "机构：A股阶段性修复行情或将启动",
+     "u": "https://www.toutiao.com/trending/7706765592795480102/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706765592795480102%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%BA%E6%9E%84%EF%BC%9AA%E8%82%A1%E9%98%B6%E6%AE%B5%E6%80%A7%E4%BF%AE%E5%A4%8D%E8%A1%8C%E6%83%85%E6%88%96%E5%B0%86%E5%90%AF%E5%8A%A8%22%7D&rank=&style_id=40132&topic_id=7706765592795480102",
+     "n": 3796873,
+     "d": ""
+    },
+    {
+     "t": "主力在抄底哪些行业",
+     "u": "https://www.toutiao.com/trending/7706846932722781732/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706846932722781732%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%BB%E5%8A%9B%E5%9C%A8%E6%8A%84%E5%BA%95%E5%93%AA%E4%BA%9B%E8%A1%8C%E4%B8%9A%22%7D&rank=&style_id=40132&topic_id=7706846932722781732",
+     "n": 3435553,
+     "d": "new"
+    },
+    {
+     "t": "多地最低工资标准上调 谁将受益",
+     "u": "https://www.toutiao.com/trending/7705964373139030043/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227705964373139030043%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%9A%E5%9C%B0%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86%E4%B8%8A%E8%B0%83+%E8%B0%81%E5%B0%86%E5%8F%97%E7%9B%8A%22%7D&rank=&style_id=40132&topic_id=7705964373139030043",
+     "n": 3108616,
+     "d": "interpretation"
+    },
+    {
+     "t": "梁家辉拒绝工作人员帮拿金鸡奖杯",
+     "u": "https://www.toutiao.com/trending/7705565349990780479/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227705565349990780479%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%A2%81%E5%AE%B6%E8%BE%89%E6%8B%92%E7%BB%9D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B8%AE%E6%8B%BF%E9%87%91%E9%B8%A1%E5%A5%96%E6%9D%AF%22%7D&rank=&style_id=40132&topic_id=7705565349990780479",
+     "n": 2812792,
+     "d": ""
+    },
+    {
+     "t": "彩票店主代买彩票中825万私自兑奖",
+     "u": "https://www.toutiao.com/trending/7706767171250929727/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706767171250929727%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BD%A9%E7%A5%A8%E5%BA%97%E4%B8%BB%E4%BB%A3%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD825%E4%B8%87%E7%A7%81%E8%87%AA%E5%85%91%E5%A5%96%22%7D&rank=&style_id=40132&topic_id=7706767171250929727",
+     "n": 2545120,
+     "d": ""
+    },
+    {
+     "t": "穿长筒靴气场开挂脱鞋靠人拽",
+     "u": "https://www.toutiao.com/trending/7706412873383428138/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706412873383428138%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A9%BF%E9%95%BF%E7%AD%92%E9%9D%B4%E6%B0%94%E5%9C%BA%E5%BC%80%E6%8C%82%E8%84%B1%E9%9E%8B%E9%9D%A0%E4%BA%BA%E6%8B%BD%22%7D&rank=&style_id=40132&topic_id=7706412873383428138",
+     "n": 2302920,
+     "d": ""
+    },
+    {
+     "t": "股市反弹要来了吗",
+     "u": "https://www.toutiao.com/trending/7706837571447295551/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706837571447295551%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%82%A1%E5%B8%82%E5%8F%8D%E5%BC%B9%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7706837571447295551",
+     "n": 2083768,
+     "d": ""
+    },
+    {
+     "t": "女子过安检喝半瓶白酒？车站：是水",
+     "u": "https://www.toutiao.com/trending/7706769988971184650/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706769988971184650%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%AD%90%E8%BF%87%E5%AE%89%E6%A3%80%E5%96%9D%E5%8D%8A%E7%93%B6%E7%99%BD%E9%85%92%EF%BC%9F%E8%BD%A6%E7%AB%99%EF%BC%9A%E6%98%AF%E6%B0%B4%22%7D&rank=&style_id=40132&topic_id=7706769988971184650",
+     "n": 1885471,
+     "d": ""
+    },
+    {
+     "t": "港媒曝霍启山娜然婚礼请柬",
+     "u": "https://www.toutiao.com/trending/7706824016128098825/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706824016128098825%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B8%AF%E5%AA%92%E6%9B%9D%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%A8%9C%E7%84%B6%E5%A9%9A%E7%A4%BC%E8%AF%B7%E6%9F%AC%22%7D&rank=&style_id=40132&topic_id=7706824016128098825",
+     "n": 1706045,
+     "d": "new"
+    },
+    {
+     "t": "网友谈扬州地震：躺床上直接被摇醒",
+     "u": "https://www.toutiao.com/trending/7705772413099114559/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227705772413099114559%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E5%8F%8B%E8%B0%88%E6%89%AC%E5%B7%9E%E5%9C%B0%E9%9C%87%EF%BC%9A%E8%BA%BA%E5%BA%8A%E4%B8%8A%E7%9B%B4%E6%8E%A5%E8%A2%AB%E6%91%87%E9%86%92%22%7D&rank=&style_id=40132&topic_id=7705772413099114559",
+     "n": 1543693,
+     "d": ""
+    },
+    {
+     "t": "APEC前夕深圳全城换装",
+     "u": "https://www.toutiao.com/trending/7706773146010976818/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706773146010976818%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22APEC%E5%89%8D%E5%A4%95%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%9F%8E%E6%8D%A2%E8%A3%85%22%7D&rank=&style_id=40132&topic_id=7706773146010976818",
+     "n": 1396791,
+     "d": ""
+    },
+    {
+     "t": "运-20大机群展示“大象漫步”",
+     "u": "https://www.toutiao.com/trending/7706475452919119899/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706475452919119899%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%BF%90-20%E5%A4%A7%E6%9C%BA%E7%BE%A4%E5%B1%95%E7%A4%BA%E2%80%9C%E5%A4%A7%E8%B1%A1%E6%BC%AB%E6%AD%A5%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7706475452919119899",
+     "n": 1263869,
+     "d": "new"
+    },
+    {
+     "t": "宋佳舒淇金鸡奖后台同框",
+     "u": "https://www.toutiao.com/trending/7706550715615707674/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706550715615707674%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%8B%E4%BD%B3%E8%88%92%E6%B7%87%E9%87%91%E9%B8%A1%E5%A5%96%E5%90%8E%E5%8F%B0%E5%90%8C%E6%A1%86%22%7D&rank=&style_id=40132&topic_id=7706550715615707674",
+     "n": 1143596,
+     "d": ""
+    },
+    {
+     "t": "离岸信托收益征税平稳有序推进",
+     "u": "https://www.toutiao.com/trending/7706828988060271155/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706828988060271155%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A6%BB%E5%B2%B8%E4%BF%A1%E6%89%98%E6%94%B6%E7%9B%8A%E5%BE%81%E7%A8%8E%E5%B9%B3%E7%A8%B3%E6%9C%89%E5%BA%8F%E6%8E%A8%E8%BF%9B%22%7D&rank=&style_id=40132&topic_id=7706828988060271155",
+     "n": 1034768,
+     "d": "new"
+    },
+    {
+     "t": "人民日报评画地为牢出圈",
+     "u": "https://www.toutiao.com/trending/7706521714359910427/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706521714359910427%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E5%87%BA%E5%9C%88%22%7D&rank=&style_id=40132&topic_id=7706521714359910427",
+     "n": 936297,
+     "d": ""
+    },
+    {
+     "t": "媒体：上门服务的坑谁来管",
+     "u": "https://www.toutiao.com/trending/7706296684015534121/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706296684015534121%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%9D%91%E8%B0%81%E6%9D%A5%E7%AE%A1%22%7D&rank=&style_id=40132&topic_id=7706296684015534121",
+     "n": 847196,
+     "d": ""
+    },
+    {
+     "t": "邵永灵：马科斯约束反华防长没诚意",
+     "u": "https://www.toutiao.com/trending/7706829810902781449/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706829810902781449%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%82%B5%E6%B0%B8%E7%81%B5%EF%BC%9A%E9%A9%AC%E7%A7%91%E6%96%AF%E7%BA%A6%E6%9D%9F%E5%8F%8D%E5%8D%8E%E9%98%B2%E9%95%BF%E6%B2%A1%E8%AF%9A%E6%84%8F%22%7D&rank=&style_id=40132&topic_id=7706829810902781449",
+     "n": 766575,
+     "d": ""
+    },
+    {
+     "t": "山姆超市一羽绒服卖断货",
+     "u": "https://www.toutiao.com/trending/7706434048268648489/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706434048268648489%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82%E4%B8%80%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E6%96%AD%E8%B4%A7%22%7D&rank=&style_id=40132&topic_id=7706434048268648489",
+     "n": 693626,
+     "d": ""
+    },
+    {
+     "t": "5个上门维修师傅只有2个说了实话",
+     "u": "https://www.toutiao.com/trending/7706683297081999882/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706683297081999882%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%225%E4%B8%AA%E4%B8%8A%E9%97%A8%E7%BB%B4%E4%BF%AE%E5%B8%88%E5%82%85%E5%8F%AA%E6%9C%892%E4%B8%AA%E8%AF%B4%E4%BA%86%E5%AE%9E%E8%AF%9D%22%7D&rank=&style_id=40132&topic_id=7706683297081999882",
+     "n": 627618,
+     "d": ""
+    },
+    {
+     "t": "伊朗革命卫队新建“导弹城”亮相",
+     "u": "https://www.toutiao.com/trending/7706504352940523546/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706504352940523546%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E6%96%B0%E5%BB%BA%E2%80%9C%E5%AF%BC%E5%BC%B9%E5%9F%8E%E2%80%9D%E4%BA%AE%E7%9B%B8%22%7D&rank=&style_id=40132&topic_id=7706504352940523546",
+     "n": 567893,
+     "d": ""
+    },
+    {
+     "t": "明天起S1线合肥段免费试乘",
+     "u": "https://www.toutiao.com/trending/7706764077812498971/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706764077812498971%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%98%8E%E5%A4%A9%E8%B5%B7S1%E7%BA%BF%E5%90%88%E8%82%A5%E6%AE%B5%E5%85%8D%E8%B4%B9%E8%AF%95%E4%B9%98%22%7D&rank=&style_id=40132&topic_id=7706764077812498971",
+     "n": 513850,
+     "d": ""
+    },
+    {
+     "t": "媒体人：蓉城一球员要顶薪遭雪藏",
+     "u": "https://www.toutiao.com/trending/7706799082542514698/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706799082542514698%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AA%92%E4%BD%93%E4%BA%BA%EF%BC%9A%E8%93%89%E5%9F%8E%E4%B8%80%E7%90%83%E5%91%98%E8%A6%81%E9%A1%B6%E8%96%AA%E9%81%AD%E9%9B%AA%E8%97%8F%22%7D&rank=&style_id=40132&topic_id=7706799082542514698",
+     "n": 464951,
+     "d": "new"
+    },
+    {
+     "t": "外卖小哥入职第一天救下两名坠河男子",
+     "u": "https://www.toutiao.com/trending/7706751893308981769/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706751893308981769%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%85%A5%E8%81%8C%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%95%91%E4%B8%8B%E4%B8%A4%E5%90%8D%E5%9D%A0%E6%B2%B3%E7%94%B7%E5%AD%90%22%7D&rank=&style_id=40132&topic_id=7706751893308981769",
+     "n": 420705,
+     "d": ""
+    },
+    {
+     "t": "科技板块情绪大幅修复",
+     "u": "https://www.toutiao.com/trending/7706824902162170378/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706824902162170378%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A7%91%E6%8A%80%E6%9D%BF%E5%9D%97%E6%83%85%E7%BB%AA%E5%A4%A7%E5%B9%85%E4%BF%AE%E5%A4%8D%22%7D&rank=&style_id=40132&topic_id=7706824902162170378",
+     "n": 380670,
+     "d": "new"
+    },
+    {
+     "t": "重温歼-10首飞瞬间",
+     "u": "https://www.toutiao.com/trending/7706784190385209906/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706784190385209906%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%8D%E6%B8%A9%E6%AD%BC-10%E9%A6%96%E9%A3%9E%E7%9E%AC%E9%97%B4%22%7D&rank=&style_id=40132&topic_id=7706784190385209906",
+     "n": 344444,
+     "d": ""
+    },
+    {
+     "t": "深圳坪山外籍志愿者迎APEC",
+     "u": "https://www.toutiao.com/trending/7705996487561592875/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227705996487561592875%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B7%B1%E5%9C%B3%E5%9D%AA%E5%B1%B1%E5%A4%96%E7%B1%8D%E5%BF%97%E6%84%BF%E8%80%85%E8%BF%8EAPEC%22%7D&rank=&style_id=40132&topic_id=7705996487561592875",
+     "n": 311666,
+     "d": ""
+    },
+    {
+     "t": "名嘴：大陆若对台采取行动不针对民众",
+     "u": "https://www.toutiao.com/trending/7706797490662392330/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706797490662392330%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%90%8D%E5%98%B4%EF%BC%9A%E5%A4%A7%E9%99%86%E8%8B%A5%E5%AF%B9%E5%8F%B0%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8%E4%B8%8D%E9%92%88%E5%AF%B9%E6%B0%91%E4%BC%97%22%7D&rank=&style_id=40132&topic_id=7706797490662392330",
+     "n": 282007,
+     "d": ""
+    },
+    {
+     "t": "四川舰有何独特之处",
+     "u": "https://www.toutiao.com/trending/7706831832150445606/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706831832150445606%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%9B%E5%B7%9D%E8%88%B0%E6%9C%89%E4%BD%95%E7%8B%AC%E7%89%B9%E4%B9%8B%E5%A4%84%22%7D&rank=&style_id=40132&topic_id=7706831832150445606",
+     "n": 255170,
+     "d": "new"
+    },
+    {
+     "t": "退役仪仗兵雨中展示军刀动作",
+     "u": "https://www.toutiao.com/trending/7706792321563607603/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706792321563607603%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%80%80%E5%BD%B9%E4%BB%AA%E4%BB%97%E5%85%B5%E9%9B%A8%E4%B8%AD%E5%B1%95%E7%A4%BA%E5%86%9B%E5%88%80%E5%8A%A8%E4%BD%9C%22%7D&rank=&style_id=40132&topic_id=7706792321563607603",
+     "n": 230888,
+     "d": ""
+    },
+    {
+     "t": "WTT中国香港总决赛入围名单更新",
+     "u": "https://www.toutiao.com/trending/7706788558941569563/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706788558941569563%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22WTT%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E6%80%BB%E5%86%B3%E8%B5%9B%E5%85%A5%E5%9B%B4%E5%90%8D%E5%8D%95%E6%9B%B4%E6%96%B0%22%7D&rank=&style_id=40132&topic_id=7706788558941569563",
+     "n": 208916,
+     "d": ""
+    },
+    {
+     "t": "张雪机车第10万台整车下线",
+     "u": "https://www.toutiao.com/trending/7706438652036923435/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706438652036923435%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%AC%AC10%E4%B8%87%E5%8F%B0%E6%95%B4%E8%BD%A6%E4%B8%8B%E7%BA%BF%22%7D&rank=&style_id=40132&topic_id=7706438652036923435",
+     "n": 189035,
+     "d": ""
+    },
+    {
+     "t": "台当局要求陆客删中国台湾字样被批",
+     "u": "https://www.toutiao.com/trending/7706747029136998426/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706747029136998426%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E5%BD%93%E5%B1%80%E8%A6%81%E6%B1%82%E9%99%86%E5%AE%A2%E5%88%A0%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E5%AD%97%E6%A0%B7%E8%A2%AB%E6%89%B9%22%7D&rank=&style_id=40132&topic_id=7706747029136998426",
+     "n": 171046,
+     "d": ""
+    },
+    {
+     "t": "首批带V、N字头字母火车票开售",
+     "u": "https://www.toutiao.com/trending/7704952667365294618/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704952667365294618%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A6%96%E6%89%B9%E5%B8%A6V%E3%80%81N%E5%AD%97%E5%A4%B4%E5%AD%97%E6%AF%8D%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%BC%80%E5%94%AE%22%7D&rank=&style_id=40132&topic_id=7704952667365294618",
+     "n": 154768,
+     "d": ""
+    },
+    {
+     "t": "特斯拉中国销量跌66%为何不慌",
+     "u": "https://www.toutiao.com/trending/7706842325208534571/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706842325208534571%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E9%94%80%E9%87%8F%E8%B7%8C66%25%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%85%8C%22%7D&rank=&style_id=40132&topic_id=7706842325208534571",
+     "n": 140040,
+     "d": "new"
+    },
+    {
+     "t": "邓家佳钟楚曦同框颁奖手臂线条抢镜",
+     "u": "https://www.toutiao.com/trending/7706710534011535410/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706710534011535410%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%82%93%E5%AE%B6%E4%BD%B3%E9%92%9F%E6%A5%9A%E6%9B%A6%E5%90%8C%E6%A1%86%E9%A2%81%E5%A5%96%E6%89%8B%E8%87%82%E7%BA%BF%E6%9D%A1%E6%8A%A2%E9%95%9C%22%7D&rank=&style_id=40132&topic_id=7706710534011535410",
+     "n": 126714,
+     "d": "new"
+    },
+    {
+     "t": "深圳进入APEC时间",
+     "u": "https://www.toutiao.com/trending/7706278514051498038/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706278514051498038%22%2C%22hot_board_impr_id%22%3A%2220261111184311660956B423FD40C3B613%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B7%B1%E5%9C%B3%E8%BF%9B%E5%85%A5APEC%E6%97%B6%E9%97%B4%22%7D&rank=&style_id=40132&topic_id=7706278514051498038",
+     "n": 114655,
+     "d": ""
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "zhihu",
+   "name": "知乎热榜",
+   "sub": "综合",
+   "region": "cn",
+   "home": "https://www.zhihu.com/hot",
+   "unit": "",
+   "items": [
+    {
+     "t": "如何看待房主因不满 35 万元拆迁赔偿直播施压，四川自永高速建设施工队直接改方案抬高跨过？",
+     "u": "https://www.zhihu.com/question/2103486193320949335",
+     "n": 39930000,
+     "d": "3993 万热度"
+    },
+    {
+     "t": "比亚迪就大唐轮辋装配问题致歉，系供应商编码录入失误造成错装，不影响操控，具体什么情况？实际影响多大？",
+     "u": "https://www.zhihu.com/question/2103833839650829073",
+     "n": 15480000,
+     "d": "1548 万热度"
+    },
+    {
+     "t": "如果在床边放一碗血，晚上蚊子还会来咬我吗？",
+     "u": "https://www.zhihu.com/question/32167913",
+     "n": 9960000,
+     "d": "996 万热度"
+    },
+    {
+     "t": "幼儿园、小学、初中学龄人口已经达峰，对教育行业意味着什么？哪些新变化值得关注？",
+     "u": "https://www.zhihu.com/question/2103478076222826262",
+     "n": 4950000,
+     "d": "495 万热度"
+    },
+    {
+     "t": "如何看待网友晒「上海和平饭店6人餐花费51万元的天价小票」，饭店辟谣称小票系伪造，警方目前已介入 ？",
+     "u": "https://www.zhihu.com/question/2103428607267885143",
+     "n": 4140000,
+     "d": "414 万热度"
+    },
+    {
+     "t": "玛莎拉蒂将与尊界合作，将通过江淮进行制造，此次合作能给三方带来什么？同一款车两套身份，谁在薅谁羊毛？",
+     "u": "https://www.zhihu.com/question/2103222658078696264",
+     "n": 3340000,
+     "d": "334 万热度"
+    },
+    {
+     "t": "为什么绿皮火车又火了？",
+     "u": "https://www.zhihu.com/question/2005995071858816619",
+     "n": 3300000,
+     "d": "330 万热度"
+    },
+    {
+     "t": "沙僧在《西游记》中，除了挑担子外，出场的时候很少，为什么吴承恩在写《西游记》时不把他删掉？",
+     "u": "https://www.zhihu.com/question/2053053168834064898",
+     "n": 3280000,
+     "d": "328 万热度"
+    },
+    {
+     "t": "王健林 14 年后再任万达商管董事长，怎样解读这一调整？",
+     "u": "https://www.zhihu.com/question/2103069568293762961",
+     "n": 3280000,
+     "d": "328 万热度"
+    },
+    {
+     "t": "如何看待上海卫健委回应校招会上医生月薪最高2499元，称信息不完整、已更新？实际薪资水平一般是怎样的？",
+     "u": "https://www.zhihu.com/question/2103254104738903552",
+     "n": 3270000,
+     "d": "327 万热度"
+    },
+    {
+     "t": "谷歌正式开放模型 Gemini 4 Carbon，如何评价？实际体验如何？",
+     "u": "https://www.zhihu.com/question/2103666307413680604",
+     "n": 3210000,
+     "d": "321 万热度"
+    },
+    {
+     "t": "小学男孩「嘉豪」总被嘲笑希望改名，名字是网络流行梗对孩子来说有多困扰？家长该怎么做？",
+     "u": "https://www.zhihu.com/question/2103799113883935640",
+     "n": 3140000,
+     "d": "314 万热度"
+    },
+    {
+     "t": "男子与第三者在客栈发生关系后猝死，妻子向第三者和客栈索赔超百万元，一审被驳回，法律上如何分析？",
+     "u": "https://www.zhihu.com/question/2103761363461829217",
+     "n": 3030000,
+     "d": "303 万热度"
+    },
+    {
+     "t": "「减肥神药」或致永久性失明，美药管局发布警告，司美格鲁肽这类药物真的可能造成永久性失明吗？风险有多高？",
+     "u": "https://www.zhihu.com/question/2103518663697331592",
+     "n": 2920000,
+     "d": "292 万热度"
+    },
+    {
+     "t": "S16 半决赛 Doran 选出 VN 对线 Bin 的鳄鱼发挥失常，这手选人有哪些不合理之处？",
+     "u": "https://www.zhihu.com/question/2103077996768800812",
+     "n": 2730000,
+     "d": "273 万热度"
+    },
+    {
+     "t": "如何看待外媒曝比亚迪荷兰办公室遭突击搜查，相关电子记录被封存，捷豹路虎指控方程豹钛7逆向工程抄袭卫士？",
+     "u": "https://www.zhihu.com/question/2103428518323475771",
+     "n": 2720000,
+     "d": "272 万热度"
+    },
+    {
+     "t": "为啥老有人说李亚鹏版令狐冲成天愁眉苦脸才最符合原著令狐冲形象，理由是令狐冲本身就是个「拧巴」的人？",
+     "u": "https://www.zhihu.com/question/2015970790319875143",
+     "n": 2710000,
+     "d": "271 万热度"
+    },
+    {
+     "t": "高叶凭《南京照相馆》林毓秀一角拿下金鸡影后，首提即中，她在片中的表现如何？",
+     "u": "https://www.zhihu.com/question/2103599871219299802",
+     "n": 2700000,
+     "d": "270 万热度"
+    },
+    {
+     "t": "网上总劝年轻人要沉下心做长期的事，但现实里短期看不到回报，生存都困难，坚持长期主义真的现实吗？",
+     "u": "https://www.zhihu.com/question/2086076032361280824",
+     "n": 2610000,
+     "d": "261 万热度"
+    },
+    {
+     "t": "女子卡里消失了近 26 万元，6 天内被分多笔转走，交易短信提醒被取消，手机曾莫名闪烁，这是什么情况？",
+     "u": "https://www.zhihu.com/question/2103438593268238305",
+     "n": 2520000,
+     "d": "252 万热度"
+    },
+    {
+     "t": "10 月 20 万元以上新能源车销量榜出炉，前三名全是小米，哪些数据值得关注？当前市场格局如何？",
+     "u": "https://www.zhihu.com/question/2103425545253778677",
+     "n": 2320000,
+     "d": "232 万热度"
+    },
+    {
+     "t": "美国10月CPI涨幅超预期，美联储理事称或加息50个基点，纳指黄金白银集体下跌，如何解读？",
+     "u": "https://www.zhihu.com/question/2103762722504402384",
+     "n": 1920000,
+     "d": "192 万热度"
+    },
+    {
+     "t": "张卫健和周星驰的差距在哪儿？",
+     "u": "https://www.zhihu.com/question/2101027531482833408",
+     "n": 1920000,
+     "d": "192 万热度"
+    },
+    {
+     "t": "5元换电池能解决的燃气灶问题要260元，记者暗访5位上门维修师傅仅2人说实话，为什么上门维修总有套路？",
+     "u": "https://www.zhihu.com/question/2103658788679173413",
+     "n": 1910000,
+     "d": "191 万热度"
+    },
+    {
+     "t": "如何评价2026年11月米哈游《崩坏星穹铁道》4.7版本剧情任务【此刻将群星付之一笑】？",
+     "u": "https://www.zhihu.com/question/2103497597671556112",
+     "n": 1490000,
+     "d": "149 万热度"
+    },
+    {
+     "t": "Bin 淘汰 T1 后喊话决赛队，称 GEN 不如 T1，认为会比 T1 更好打，怎么看待他的说法？",
+     "u": "https://www.zhihu.com/question/2103136590931260382",
+     "n": 1390000,
+     "d": "139 万热度"
+    },
+    {
+     "t": "大师兄Doublelift发问「如果BLG夺冠，这会是史上最具含金量的冠军吗」，你觉得是吗？",
+     "u": "https://www.zhihu.com/question/2103838445835654070",
+     "n": 1160000,
+     "d": "116 万热度"
+    },
+    {
+     "t": "人民空军成立 77 周年，如今多型战机成体系、预警体系力量密织天网，你对人民空军的发展还有哪些期待?",
+     "u": "https://www.zhihu.com/question/2103788111767648046",
+     "n": 1070000,
+     "d": "107 万热度"
+    },
+    {
+     "t": "如何评价 MiniMax 开源的 H3-Image 生图模型，能够在 10 秒内生成一张高分辨率图像？",
+     "u": "https://www.zhihu.com/question/2103585538036986218",
+     "n": 1060000,
+     "d": "106 万热度"
+    },
+    {
+     "t": "如何评价 Qwen4-Max-Preview 模型？实际体验如何？",
+     "u": "https://www.zhihu.com/question/2103792519561717733",
+     "n": 1060000,
+     "d": "106 万热度"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "bili",
+   "name": "B 站热门",
+   "sub": "综合榜",
+   "region": "cn",
+   "home": "https://www.bilibili.com/v/popular/rank/all",
+   "unit": " 播放",
+   "items": [
+    {
+     "t": "【2026全球总决赛】11月9日 BLG vs T1",
+     "u": "https://www.bilibili.com/video/BV1TgWp6MEHJ",
+     "n": 14575160,
+     "d": "哔哩哔哩英雄联盟赛事"
+    },
+    {
+     "t": "《阴阳师》笼梦祸津神CG丨祸至无日（CV：中野彩麻）",
+     "u": "https://www.bilibili.com/video/BV1sCWx6GEsH",
+     "n": 2388127,
+     "d": "网易阴阳师手游"
+    },
+    {
+     "t": "选举大败特朗普和马斯克这下惨了",
+     "u": "https://www.bilibili.com/video/BV1WEWs66EBP",
+     "n": 3225988,
+     "d": "燕三嘤嘤嘤"
+    },
+    {
+     "t": "当我死去，群山不会震颤，河水不会倒流｜AI长片《汤症》【AI全民制作人】【完整版合集】",
+     "u": "https://www.bilibili.com/video/BV1vmWJ6LEmW",
+     "n": 3977677,
+     "d": "SillyZ_Official"
+    },
+    {
+     "t": "《崩坏：星穹铁道》星神★阿哈角色PV——「让骰子飞」",
+     "u": "https://www.bilibili.com/video/BV1tS4n6CEoJ",
+     "n": 4988756,
+     "d": "崩坏星穹铁道"
+    },
+    {
+     "t": "耗时5个月，5万元成本，我用AI拍了一部68分钟的原创中国科幻长片《灰蚀危机》【ai全民制作人】",
+     "u": "https://www.bilibili.com/video/BV18GW76hEdg",
+     "n": 1129242,
+     "d": "陶冶AI"
+    },
+    {
+     "t": "如何盗走《蒙娜丽莎》？【硬核狠人92】",
+     "u": "https://www.bilibili.com/video/BV1i4W86zEUS",
+     "n": 1541361,
+     "d": "小约翰可汗"
+    },
+    {
+     "t": "《虚环》PV03｜致过去与未来的歌",
+     "u": "https://www.bilibili.com/video/BV1h4WW6LEEv",
+     "n": 7199520,
+     "d": "虚环"
+    },
+    {
+     "t": "《绝区零》赛维里安EP | Gambit",
+     "u": "https://www.bilibili.com/video/BV1xiWW6uESZ",
+     "n": 1267540,
+     "d": "绝区零"
+    },
+    {
+     "t": "谁一周后的播放量高，谁就是流量王！！！【流量王番外篇蓝队】",
+     "u": "https://www.bilibili.com/video/BV13zWn66EXB",
+     "n": 1195898,
+     "d": "徐大虾咯"
+    },
+    {
+     "t": "这游戏是很多人的一辈子",
+     "u": "https://www.bilibili.com/video/BV1J54W6NELg",
+     "n": 3713002,
+     "d": "拧不动啊真拧不动"
+    },
+    {
+     "t": "谁一周后的播放量高，谁就是流量王！！！【流量王番外篇红队】",
+     "u": "https://www.bilibili.com/video/BV1RLWW6XEfn",
+     "n": 1111215,
+     "d": "雨哥到处跑"
+    },
+    {
+     "t": "出现在餐桌上的清明上河图",
+     "u": "https://www.bilibili.com/video/BV1so4E6cEGi",
+     "n": 4108208,
+     "d": "小馒头的面食面艺"
+    },
+    {
+     "t": "人类饲养指南",
+     "u": "https://www.bilibili.com/video/BV1Cn4n6YE29",
+     "n": 2796284,
+     "d": "抽象生活先生"
+    },
+    {
+     "t": "Faker了一辈子的蹲方魂 终于…",
+     "u": "https://www.bilibili.com/video/BV1aYW86vEte",
+     "n": 2146099,
+     "d": "是大洋芋"
+    },
+    {
+     "t": "BO5战胜Faker！ BLG战胜T1挺进决赛！BLG决赛加油！【2026英雄联盟全球总决赛】",
+     "u": "https://www.bilibili.com/video/BV1kkWW6NEDW",
+     "n": 1370645,
+     "d": "新华社"
+    },
+    {
+     "t": "给孩子做了一个半飞行的玩具车",
+     "u": "https://www.bilibili.com/video/BV1QUW46oEuT",
+     "n": 1813422,
+     "d": "手工耿"
+    },
+    {
+     "t": "上帝之光：当人类第一次拥有操纵大脑的能力",
+     "u": "https://www.bilibili.com/video/BV1KpWb6WENA",
+     "n": 2032647,
+     "d": "大圆镜科普"
+    },
+    {
+     "t": "影之刃零：斗地主Mod 和任意BOSS打牌",
+     "u": "https://www.bilibili.com/video/BV14pW769EXe",
+     "n": 1300362,
+     "d": "迈克杰克逊"
+    },
+    {
+     "t": "地牢酒馆-33《日常招待与地下湖》",
+     "u": "https://www.bilibili.com/video/BV1bwWu6KEaS",
+     "n": 1630627,
+     "d": "粘土工厂"
+    },
+    {
+     "t": "欢迎来到实力至上主义校园",
+     "u": "https://www.bilibili.com/video/BV1nx4n6cEst",
+     "n": 3337549,
+     "d": "阿玉老贼"
+    },
+    {
+     "t": "星河流动",
+     "u": "https://www.bilibili.com/video/BV1LM4L6TE3V",
+     "n": 6340928,
+     "d": "牛排大王mc"
+    },
+    {
+     "t": "爱莉希雅，生日快乐！",
+     "u": "https://www.bilibili.com/video/BV1EHWu6pE2E",
+     "n": 297710,
+     "d": "崩坏3第一偶像爱酱"
+    },
+    {
+     "t": "《灭霸全家福》灭霸的爸爸是灭建国，被艾特的都是扎啤！",
+     "u": "https://www.bilibili.com/video/BV1vB4p6fEVX",
+     "n": 1711474,
+     "d": "音乐老友"
+    },
+    {
+     "t": "《人皇步》",
+     "u": "https://www.bilibili.com/video/BV1BjWt6BEJd",
+     "n": 2684720,
+     "d": "伤心欲茄222"
+    },
+    {
+     "t": "来东京，拍到了些怪东西",
+     "u": "https://www.bilibili.com/video/BV179WW6oESh",
+     "n": 1224277,
+     "d": "百万剪辑狮"
+    },
+    {
+     "t": "\"积气猫\"最新情况进展，全力救治中，期待康复~",
+     "u": "https://www.bilibili.com/video/BV1tHW76sELT",
+     "n": 1125458,
+     "d": "宠医张政"
+    },
+    {
+     "t": "啊哈说表演要让人眼前一亮！",
+     "u": "https://www.bilibili.com/video/BV1McWE6ZEdk",
+     "n": 1386320,
+     "d": "方老师来啦"
+    },
+    {
+     "t": "【IEM科隆Major纪录片】Field of View - Focus to Win",
+     "u": "https://www.bilibili.com/video/BV1vp4W6fEQR",
+     "n": 858766,
+     "d": "ESL官方账号"
+    },
+    {
+     "t": "人心散了，队伍不好带了！白宫开演“狼人杀”",
+     "u": "https://www.bilibili.com/video/BV13GWb6cEDU",
+     "n": 1462915,
+     "d": "麻薯波比呀"
+    },
+    {
+     "t": "生蚝肚子里这坨黄绿色的是啥？能吃吗？【主播说三农】",
+     "u": "https://www.bilibili.com/video/BV1yQWE6XEK7",
+     "n": 1836262,
+     "d": "央视农业"
+    },
+    {
+     "t": "【1酱赛评四强篇·上】BLG突破LPL对S赛T1不胜历史！几代人的夙愿！14年的等待！终于在S赛战胜T1！爽爽爽爽爽！！！！",
+     "u": "https://www.bilibili.com/video/BV1QAW36VEWg",
+     "n": 988042,
+     "d": "你是想气死1酱么"
+    },
+    {
+     "t": "夜神月，你的数学作业还没给我",
+     "u": "https://www.bilibili.com/video/BV1hJWJ6eEu5",
+     "n": 2105728,
+     "d": "Lunak_重庆电音之神"
+    },
+    {
+     "t": "人 性 的 恶",
+     "u": "https://www.bilibili.com/video/BV1piWH6hEDw",
+     "n": 2022155,
+     "d": "CF池本"
+    },
+    {
+     "t": "【爱你】王力宏&王心凌「最好的地方Ⅱ」官摄 | 限定 “双王组合”首次同台，甜度加倍！",
+     "u": "https://www.bilibili.com/video/BV1tBWt6WEVw",
+     "n": 1116350,
+     "d": "王力宏"
+    },
+    {
+     "t": "国 运 神 人 大 赛",
+     "u": "https://www.bilibili.com/video/BV1Y3W76wECX",
+     "n": 1004095,
+     "d": "回天阿探"
+    },
+    {
+     "t": "【A2O】A2O SOUL 'Dancing in the Dark' Official Music Video",
+     "u": "https://www.bilibili.com/video/BV17cWb6BEZh",
+     "n": 573283,
+     "d": "A2O_WORLD"
+    },
+    {
+     "t": "《鸣潮》共鸣者「莉莉」PV | 忘记恐惧",
+     "u": "https://www.bilibili.com/video/BV1VmW46bEfC",
+     "n": 1490593,
+     "d": "鸣潮"
+    },
+    {
+     "t": "当杀手和律师都以为对方是同行",
+     "u": "https://www.bilibili.com/video/BV1eNW76KEdJ",
+     "n": 2290033,
+     "d": "小草律师呀"
+    },
+    {
+     "t": "THANK YOU Smoggy",
+     "u": "https://www.bilibili.com/video/BV1v8WT6uEJH",
+     "n": 1165189,
+     "d": "EDG电子竞技俱乐部"
+    },
+    {
+     "t": "特厨探店|探店这么多年，没想到还是会震惊！",
+     "u": "https://www.bilibili.com/video/BV1LxW863EaB",
+     "n": 1274290,
+     "d": "特厨隋坡"
+    },
+    {
+     "t": "宿舍自制密室逃脱9《盗宿笔记》",
+     "u": "https://www.bilibili.com/video/BV1tEW764Ew5",
+     "n": 2171211,
+     "d": "小叮当的伙伴们"
+    },
+    {
+     "t": "就是等到你来捡咯",
+     "u": "https://www.bilibili.com/video/BV1i64s6KEQ3",
+     "n": 2382189,
+     "d": "薪儿姐师尊"
+    },
+    {
+     "t": "“当bro第一次来洛杉矶，却对这里无比熟悉”",
+     "u": "https://www.bilibili.com/video/BV1iHWt6NEaR",
+     "n": 1180141,
+     "d": "唯美风景线"
+    },
+    {
+     "t": "当我把九个ai请来玩贪官造桥....｜AI 算法对抗大赛 第 9 集 · 造桥",
+     "u": "https://www.bilibili.com/video/BV1JkWH64ESy",
+     "n": 1644186,
+     "d": "喵了个猫了个咪了个猫"
+    },
+    {
+     "t": "你学会了吗",
+     "u": "https://www.bilibili.com/video/BV1oK476jExu",
+     "n": 2999763,
+     "d": "大雄哥Dxg"
+    },
+    {
+     "t": "你擦亮眼睛，看看是谁在闹",
+     "u": "https://www.bilibili.com/video/BV1Hv4764EQH",
+     "n": 1645972,
+     "d": "李万基fit"
+    },
+    {
+     "t": "火柴人 VS 动画师 第十四集 黑暗时代（The Dark Age）",
+     "u": "https://www.bilibili.com/video/BV1Z24J6dEBk",
+     "n": 1927597,
+     "d": "火柴人AlanBecker"
+    },
+    {
+     "t": "“今日我虽死，却还是！！！”",
+     "u": "https://www.bilibili.com/video/BV1AQ4x6mEUi",
+     "n": 1736409,
+     "d": "三木刃"
+    },
+    {
+     "t": "【失传媒体/已还原】全网首发！命运石之门经典梗图，完整出处考证",
+     "u": "https://www.bilibili.com/video/BV13oWJ6uE49",
+     "n": 866610,
+     "d": "我的悲伤是洛水做的"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "sspai",
+   "name": "少数派",
+   "sub": "最新",
+   "region": "cn",
+   "home": "https://sspai.com/",
+   "unit": "",
+   "items": [
+    {
+     "t": "城市漫步指南 | 安特卫普，时尚就在生活中",
+     "u": "https://sspai.com/post/118781",
+     "n": 0,
+     "d": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，"
+    },
+    {
+     "t": "从优胜美地到金门大桥：跟着 macOS 游览加州",
+     "u": "https://sspai.com/post/118175",
+     "n": 0,
+     "d": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？"
+    },
+    {
+     "t": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+     "u": "https://sspai.com/post/118458",
+     "n": 0,
+     "d": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。"
+    },
+    {
+     "t": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+     "u": "https://sspai.com/post/118905",
+     "n": 0,
+     "d": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。"
+    },
+    {
+     "t": "社区速递 165 | 透明工牌与派友十月购物清单",
+     "u": "https://sspai.com/post/118861",
+     "n": 0,
+     "d": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因"
+    },
+    {
+     "t": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+     "u": "https://sspai.com/post/118824",
+     "n": 0,
+     "d": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从20"
+    },
+    {
+     "t": "今年双十一，这些鼠标值得一看",
+     "u": "https://sspai.com/post/111065",
+     "n": 0,
+     "d": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。"
+    },
+    {
+     "t": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+     "u": "https://sspai.com/post/118854",
+     "n": 0,
+     "d": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自202"
+    },
+    {
+     "t": "派评 | 近期值得关注的 App",
+     "u": "https://sspai.com/post/118833",
+     "n": 0,
+     "d": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀"
+    },
+    {
+     "t": "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+     "u": "https://sspai.com/post/118799",
+     "n": 0,
+     "d": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "woshipm-daily",
+   "name": "人人都是产品经理",
+   "sub": "日榜",
+   "region": "cn",
+   "home": "https://www.woshipm.com/",
+   "unit": " 分",
+   "items": [
+    {
+     "t": "规模化分享我 Vibe-Coding 的提示词",
+     "u": "https://www.woshipm.com/?p=6491716",
+     "n": 435,
+     "d": "1天前"
+    },
+    {
+     "t": "用WorkBuddy从零复刻一条完整爆款视频",
+     "u": "https://www.woshipm.com/?p=6491798",
+     "n": 380,
+     "d": "23小时前"
+    },
+    {
+     "t": "Harness 到底是什么？这是今年最透彻的解读",
+     "u": "https://www.woshipm.com/?p=6491701",
+     "n": 379,
+     "d": "1天前"
+    },
+    {
+     "t": "Seedream 5.5 全量上线，多轮编辑能力里程碑级别，海量案例分享！",
+     "u": "https://www.woshipm.com/?p=6491698",
+     "n": 313,
+     "d": "1天前"
+    },
+    {
+     "t": "一句指令让Codex自动赚钱，到底靠谱吗？",
+     "u": "https://www.woshipm.com/?p=6491812",
+     "n": 311,
+     "d": "8小时前"
+    },
+    {
+     "t": "实测 Claude Fable 5.2：78 分钟捏了个操作系统",
+     "u": "https://www.woshipm.com/?p=6491703",
+     "n": 309,
+     "d": "1天前"
+    },
+    {
+     "t": "刘强东也做短剧了",
+     "u": "https://www.woshipm.com/?p=6491711",
+     "n": 295,
+     "d": "1天前"
+    },
+    {
+     "t": "千问办公 2.0 发布：个人效率之外，还有组织效率这道题",
+     "u": "https://www.woshipm.com/?p=6491851",
+     "n": 291,
+     "d": "23小时前"
+    },
+    {
+     "t": "DeepSeek Harness产品分析：从「一切皆插件」到 Agent 运行时",
+     "u": "https://www.woshipm.com/?p=6491957",
+     "n": 289,
+     "d": "8小时前"
+    },
+    {
+     "t": "Claude Fable 5.2 实测，DeepSeek、Kimi K3.1 迎战",
+     "u": "https://www.woshipm.com/?p=6491795",
+     "n": 288,
+     "d": "23小时前"
+    },
+    {
+     "t": "双十一还没开始，一些店铺先退场了",
+     "u": "https://www.woshipm.com/?p=6491911",
+     "n": 270,
+     "d": "8小时前"
+    },
+    {
+     "t": "WorkBuddy上线电脑操控，要接管你的电脑",
+     "u": "https://www.woshipm.com/?p=6491707",
+     "n": 261,
+     "d": "1天前"
+    },
+    {
+     "t": "实测还在灰度的GPT 6.2 sol，Opus5.5的审美霸权时代要结束了",
+     "u": "https://www.woshipm.com/?p=6491705",
+     "n": 257,
+     "d": "1天前"
+    },
+    {
+     "t": "Warp 创始人：如何打造一个自我迭代的软件工厂",
+     "u": "https://www.woshipm.com/?p=6491627",
+     "n": 246,
+     "d": "1天前"
+    },
+    {
+     "t": "闪购 Agent 情感设计探索",
+     "u": "https://www.woshipm.com/?p=6492207",
+     "n": 239,
+     "d": "6小时前"
+    },
+    {
+     "t": "京东的“外卖大战”到底在打什么？",
+     "u": "https://www.woshipm.com/?p=6491984",
+     "n": 231,
+     "d": "8小时前"
+    },
+    {
+     "t": "小红书的生活服务行业，已经不是线索广告的逻辑了",
+     "u": "https://www.woshipm.com/?p=6492093",
+     "n": 225,
+     "d": "6小时前"
+    },
+    {
+     "t": "交互智能背后，一批年轻研究者正在走到台前",
+     "u": "https://www.woshipm.com/?p=6492091",
+     "n": 194,
+     "d": "6小时前"
+    },
+    {
+     "t": "从0-1教你做一部AI短剧，这是属于我们普通人的创作时代",
+     "u": "https://www.woshipm.com/?p=6490917",
+     "n": 175,
+     "d": "2天前"
+    },
+    {
+     "t": "Claude Fable 5.2证明了，AI可以靠代码吞噬一切。",
+     "u": "https://www.woshipm.com/?p=6492118",
+     "n": 172,
+     "d": "6小时前"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "woshipm-new",
+   "name": "人人都是产品经理",
+   "sub": "最新",
+   "region": "cn",
+   "home": "https://www.woshipm.com/",
+   "unit": "",
+   "items": [
+    {
+     "t": "阿里养了只鸭子，MiniMax放只兔子",
+     "u": "https://www.woshipm.com/ai/6492469.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 09:10:11 +0000"
+    },
+    {
+     "t": "不上门一单赔10元，拼多多“送货上门”新规将执行，快递员要求涨派费，大量中小商家下掉标签",
+     "u": "https://www.woshipm.com/share/6492290.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 08:07:29 +0000"
+    },
+    {
+     "t": "“陪诊行业”真实订单到底有多少？需求似乎遍地都是，为什么很多“陪诊师”接不到单？",
+     "u": "https://www.woshipm.com/share/6492286.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 08:03:50 +0000"
+    },
+    {
+     "t": "小红书用户的内容喜好完全变了",
+     "u": "https://www.woshipm.com/share/6492252.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 08:03:16 +0000"
+    },
+    {
+     "t": "AI时代创作模式：直接喷，不要总结",
+     "u": "https://www.woshipm.com/share/6492250.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 08:02:38 +0000"
+    },
+    {
+     "t": "从维修爆单的大力灯到“小鹿爱学”：字节前高管陈林一则留言，串起新旧教育产品思路",
+     "u": "https://www.woshipm.com/share/6492248.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 07:58:00 +0000"
+    },
+    {
+     "t": "木鸟VS途家，民宿平台“京东”与“淘宝”之争",
+     "u": "https://www.woshipm.com/it/6492279.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 07:47:15 +0000"
+    },
+    {
+     "t": "怎么给AI建立一套稳定的小红书爆款内容拆解标准？！",
+     "u": "https://www.woshipm.com/share/6492281.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 07:45:10 +0000"
+    },
+    {
+     "t": "前 Twitch 产品负责人：AI 会给这八大领域带来 10 倍的机会",
+     "u": "https://www.woshipm.com/chuangye/6492237.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:47:44 +0000"
+    },
+    {
+     "t": "AI 时代的浪花：Coze 从开源到下线没撑过一年",
+     "u": "https://www.woshipm.com/ai/6492136.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:45:04 +0000"
+    },
+    {
+     "t": "一图看懂：财务数据从哪里来、到哪里去",
+     "u": "https://www.woshipm.com/share/6492131.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:44:17 +0000"
+    },
+    {
+     "t": "用Grok Bot搭建选品作战小组：7×24小时自动跑完「竞品分析-产品改进」一条龙！",
+     "u": "https://www.woshipm.com/ai/6492254.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:30:54 +0000"
+    },
+    {
+     "t": "闪购 Agent 情感设计探索",
+     "u": "https://www.woshipm.com/ucd/6492207.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 03:52:41 +0000"
+    },
+    {
+     "t": "Claude Fable 5.2证明了，AI可以靠代码吞噬一切。",
+     "u": "https://www.woshipm.com/ai/6492118.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 03:44:49 +0000"
+    },
+    {
+     "t": "商业化，2027年抖音本地生活的核心",
+     "u": "https://www.woshipm.com/share/6492115.html",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 03:25:02 +0000"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "juejin",
+   "name": "掘金",
+   "sub": "热榜",
+   "region": "cn",
+   "home": "https://juejin.cn/",
+   "unit": "",
+   "items": [
+    {
+     "t": "永别了，程序员！(转）",
+     "u": "https://juejin.cn/post/7705987138957328427",
+     "n": 3618,
+     "d": ""
+    },
+    {
+     "t": "AI 写页面像说明书，修 Bug 像贴膏药？把这两句话写进 AGENTS.md",
+     "u": "https://juejin.cn/post/7705724831249432591",
+     "n": 1116,
+     "d": ""
+    },
+    {
+     "t": "AI 正在蚕食我们的编码能力",
+     "u": "https://juejin.cn/post/7705961716425490447",
+     "n": 1008,
+     "d": ""
+    },
+    {
+     "t": "你们公司有 35 岁以上的前端吗？",
+     "u": "https://juejin.cn/post/7706534471420461098",
+     "n": 855,
+     "d": ""
+    },
+    {
+     "t": "workbuddy接管我的浏览器，帮我干活了",
+     "u": "https://juejin.cn/post/7705911807923322943",
+     "n": 585,
+     "d": ""
+    },
+    {
+     "t": "C++26 草案被否，二十八年来头一回",
+     "u": "https://juejin.cn/post/7705316753005674511",
+     "n": 531,
+     "d": ""
+    },
+    {
+     "t": "由 key 引发的思考",
+     "u": "https://juejin.cn/post/7705976844432457766",
+     "n": 459,
+     "d": ""
+    },
+    {
+     "t": "为什么越来越多人用 AI Gateway？",
+     "u": "https://juejin.cn/post/7706346256684023846",
+     "n": 450,
+     "d": ""
+    },
+    {
+     "t": "纯 Go 写的 JS 引擎，跑分超过了 C 语言的 QuickJS",
+     "u": "https://juejin.cn/post/7706013328653680678",
+     "n": 414,
+     "d": ""
+    },
+    {
+     "t": "你的能力正在被重新定价：AI 时代程序员资产重估指南",
+     "u": "https://juejin.cn/post/7705618278807289910",
+     "n": 342,
+     "d": ""
+    },
+    {
+     "t": "AI 到底能不能独立做个产品？我拿一个小程序验证了",
+     "u": "https://juejin.cn/post/7706036898079473683",
+     "n": 324,
+     "d": ""
+    },
+    {
+     "t": "让 Codex 自己查账：一个省 token 的小技巧",
+     "u": "https://juejin.cn/post/7705724831249481743",
+     "n": 324,
+     "d": ""
+    },
+    {
+     "t": "Flutter 下 AOT 一个你怎么都想不出来的 Bug ，JIT 正常的计算，在 AOT 居然算错了",
+     "u": "https://juejin.cn/post/7705608480665337882",
+     "n": 306,
+     "d": ""
+    },
+    {
+     "t": "栗子前端技术周刊第 153 期 - Vitest 5.1、Remix v3.2、Node.js 27 Alpha...",
+     "u": "https://juejin.cn/post/7705724434535661609",
+     "n": 297,
+     "d": ""
+    },
+    {
+     "t": "再见了 Typora",
+     "u": "https://juejin.cn/post/7706418656682803200",
+     "n": 297,
+     "d": ""
+    },
+    {
+     "t": "Event Loop 这篇你看完就不用再看别的了！",
+     "u": "https://juejin.cn/post/7705651336889696310",
+     "n": 243,
+     "d": ""
+    },
+    {
+     "t": "Hy4正式发布一手实测，腾讯这波起飞了。",
+     "u": "https://juejin.cn/post/7705988547135717386",
+     "n": 243,
+     "d": ""
+    },
+    {
+     "t": "Vue 3 + 高德地图封装实战：点位、区域、Loca 流光与 Vue 信息窗体",
+     "u": "https://juejin.cn/post/7705683246910734363",
+     "n": 243,
+     "d": ""
+    },
+    {
+     "t": "MCP 协议会成为前端 AI 工程的标准接口吗？",
+     "u": "https://juejin.cn/post/7706354193473011775",
+     "n": 234,
+     "d": ""
+    },
+    {
+     "t": "我用 NestJS + Vue3 写了一套完整的研发管理系统（58 表 / 229 API / 130 项断言，全开源",
+     "u": "https://juejin.cn/post/7705955493567021090",
+     "n": 234,
+     "d": ""
+    },
+    {
+     "t": "Cloudflare 出钱，Vite 团队挑人，44 个维护者分 30 万美元",
+     "u": "https://juejin.cn/post/7706109620246724659",
+     "n": 216,
+     "d": ""
+    },
+    {
+     "t": "DeepSeek-V4.1-Flash-1017 官方许愿案例太吸睛，我也复刻了一个",
+     "u": "https://juejin.cn/post/7705412224672366627",
+     "n": 216,
+     "d": ""
+    },
+    {
+     "t": "Harness Engineering 为什么是 AI Coding 的工程底座 ❓❓❓",
+     "u": "https://juejin.cn/post/7705412224673234979",
+     "n": 207,
+     "d": ""
+    },
+    {
+     "t": "代码都能让 Agent 写了，我们为什么还要学前端？",
+     "u": "https://juejin.cn/post/7706354193472995391",
+     "n": 198,
+     "d": ""
+    },
+    {
+     "t": "Flutter THLC 的 WebView 滚动终于从 70 FPS 提升到 120 FPS",
+     "u": "https://juejin.cn/post/7706068258072281139",
+     "n": 189,
+     "d": ""
+    },
+    {
+     "t": "我花一天做了个格斗游戏原型，判定全对，然后被「美术」劝退了",
+     "u": "https://juejin.cn/post/7706003327821365258",
+     "n": 189,
+     "d": ""
+    },
+    {
+     "t": "早在八十年代我们就有国产操作系统，但为什么最后还是Windows一统天下，答案藏在时间里",
+     "u": "https://juejin.cn/post/7705837677615562792",
+     "n": 189,
+     "d": ""
+    },
+    {
+     "t": "我宣布！Magpie就是版本答案！",
+     "u": "https://juejin.cn/post/7706124316778266667",
+     "n": 180,
+     "d": ""
+    },
+    {
+     "t": "AI 编程时代，聊聊我的 Mac mini 双屏桌面",
+     "u": "https://juejin.cn/post/7706270077893263403",
+     "n": 180,
+     "d": ""
+    },
+    {
+     "t": "把别人的软件拆开看，推荐5个主流逆向工具",
+     "u": "https://juejin.cn/post/7705412224673366051",
+     "n": 171,
+     "d": ""
+    },
+    {
+     "t": "程序员转型抉择：转 Agent 开发还是转全栈？一份基于招聘市场的冷静分析",
+     "u": "https://juejin.cn/post/7706090261218558015",
+     "n": 162,
+     "d": ""
+    },
+    {
+     "t": "AI 编程工作流的设计：从人工判断到 AI裁判",
+     "u": "https://juejin.cn/post/7705974459690156073",
+     "n": 153,
+     "d": ""
+    },
+    {
+     "t": "WorkBuddy操作浏览器Browser Use，的确很香！",
+     "u": "https://juejin.cn/post/7706067538656493603",
+     "n": 144,
+     "d": ""
+    },
+    {
+     "t": "Vue 可视化AI表单设计器 FcDesigner v3.6 版本发布，支持导出 SQL功能!",
+     "u": "https://juejin.cn/post/7705623263632588810",
+     "n": 135,
+     "d": ""
+    },
+    {
+     "t": "程序员 1v1 访谈系列第十三期：大龄已育空窗一年如何破局",
+     "u": "https://juejin.cn/post/7706468226762326016",
+     "n": 135,
+     "d": ""
+    },
+    {
+     "t": "AI时代，你的 App 会被 Agent 这三种方式调用",
+     "u": "https://juejin.cn/post/7705683246910636059",
+     "n": 126,
+     "d": ""
+    },
+    {
+     "t": "AI短剧800集讲规矩，观众忘了是AI",
+     "u": "https://juejin.cn/post/7706421364119093284",
+     "n": 126,
+     "d": ""
+    },
+    {
+     "t": "参与学生移动应用大赛有感 -- 肘子的 Swift 周报 #161",
+     "u": "https://juejin.cn/post/7706270077880139812",
+     "n": 126,
+     "d": ""
+    },
+    {
+     "t": "JavaScript 对象池：减少高频对象创建与 GC 压力",
+     "u": "https://juejin.cn/post/7706108508349644841",
+     "n": 126,
+     "d": ""
+    },
+    {
+     "t": "2027 Android 开发者路线图：学习、面试与 AI",
+     "u": "https://juejin.cn/post/7705961716425834511",
+     "n": 126,
+     "d": ""
+    },
+    {
+     "t": "下一代鸿蒙打包工具链：arkdown",
+     "u": "https://juejin.cn/post/7705758330530693156",
+     "n": 126,
+     "d": ""
+    },
+    {
+     "t": "从工具到代理：一张图看懂 2026–2030 年 AI 如何重构 11 个行业",
+     "u": "https://juejin.cn/post/7705724434518917161",
+     "n": 126,
+     "d": ""
+    },
+    {
+     "t": "Node.js 2026上半年都有哪些性能提升？",
+     "u": "https://juejin.cn/post/7705651336890073142",
+     "n": 126,
+     "d": ""
+    },
+    {
+     "t": "集中式与分布式怎么选？我把手头11套系统重新过了一遍秤",
+     "u": "https://juejin.cn/post/7705724434536103977",
+     "n": 117,
+     "d": ""
+    },
+    {
+     "t": "谁说终端只能敲键盘？我用 Rust 给小说阅读器加上了鼠标",
+     "u": "https://juejin.cn/post/7705403629532282889",
+     "n": 117,
+     "d": ""
+    },
+    {
+     "t": "你花大价钱买的那张 5090 可能跑不了本地 AI 模型",
+     "u": "https://juejin.cn/post/7706090261218246719",
+     "n": 117,
+     "d": ""
+    },
+    {
+     "t": "专注飞机 FocusFlight，两个人把番茄钟做成了一趟航班",
+     "u": "https://juejin.cn/post/7706057563025424425",
+     "n": 117,
+     "d": ""
+    },
+    {
+     "t": "Flutter 大小核优化又被回滚，然后又开新提案？",
+     "u": "https://juejin.cn/post/7706580144768860198",
+     "n": 108,
+     "d": ""
+    },
+    {
+     "t": "Java实现微信扫码登录",
+     "u": "https://juejin.cn/post/7705995320547770408",
+     "n": 108,
+     "d": ""
+    },
+    {
+     "t": "我扫了 422 个仓库，近一半 CI 在裸装依赖",
+     "u": "https://juejin.cn/post/7705837677614989352",
+     "n": 108,
+     "d": ""
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "baijing",
+   "name": "白鲸出海",
+   "sub": "最新",
+   "region": "cn",
+   "home": "https://www.baijingapp.com/",
+   "unit": "",
+   "items": [
+    {
+     "t": "东南亚电商巨头Sea Q3盈利不及预期，加码AI与云业务拖累利润率",
+     "u": "http://www.baijing.cn/article/57322",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 09:46:49 +0800"
+    },
+    {
+     "t": "Take-Two Q2营收下滑、亏损收窄，GTA VI发售在即预售“空前”，盘后涨逾4%",
+     "u": "http://www.baijing.cn/article/57323",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 10:17:30 +0800"
+    },
+    {
+     "t": "成交猛涨200%，速卖通双11，又跑出一批百万美元品牌",
+     "u": "http://www.baijing.cn/article/57324",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 10:56:22 +0800"
+    },
+    {
+     "t": "30天卖600万，河南老板把冷门配饰卖成“百万单品”",
+     "u": "http://www.baijing.cn/article/57325",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 11:29:09 +0800"
+    },
+    {
+     "t": "本土店集中暴雷，Shopee菲律宾突袭扫号",
+     "u": "http://www.baijing.cn/article/57326",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 12:00:56 +0800"
+    },
+    {
+     "t": "管窥AI游戏的产业现状，从Roblox这份“意外”的财报",
+     "u": "http://www.baijing.cn/article/57327",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 13:46:11 +0800"
+    },
+    {
+     "t": "3条广告累计估算曝光合计过亿，数值门广告的“买量算盘”被拆开了",
+     "u": "http://www.baijing.cn/article/57328",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 14:22:49 +0800"
+    },
+    {
+     "t": "10月全球移动游戏Top20榜：Kakao Games 2.5D新MMO收入上升榜登顶；腾讯《怪物猎人:旅人》国际服三日收入超856万美元",
+     "u": "http://www.baijing.cn/article/57330",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 14:54:21 +0800"
+    },
+    {
+     "t": "389家游戏工作室并购调查：34%关停，腾讯收购后50%表现不佳，网易为33%",
+     "u": "http://www.baijing.cn/article/57331",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 15:35:21 +0800"
+    },
+    {
+     "t": "90后小伙被大疆教父选中，一年干出34亿，把昔日老美巨头踢出局",
+     "u": "http://www.baijing.cn/article/57332",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 16:16:00 +0800"
+    },
+    {
+     "t": "10月海外短剧揽金$3.07亿，增7.6%，新APP+H5网页激增8倍，三款黑马APP跻身前十，麦芽NetShort屠榜",
+     "u": "http://www.baijing.cn/article/57333",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 17:06:02 +0800"
+    },
+    {
+     "t": "和大疆激战一年，影石先扛不住了",
+     "u": "http://www.baijing.cn/article/57336",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 17:30:19 +0800"
+    },
+    {
+     "t": "Q3收入近59亿元，这家上市公司却砍掉了6个项目？",
+     "u": "http://www.baijing.cn/article/57337",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 18:04:22 +0800"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "gtrends",
+   "name": "Google Trends",
+   "sub": "Daily · US",
+   "region": "os",
+   "home": "https://trends.google.com/trending?geo=US",
+   "unit": "+ 搜索",
+   "items": [
+    {
+     "t": "gta 6 release",
+     "u": "https://trends.google.com/trends/explore?geo=US&q=gta%206%20release",
+     "n": 10000,
+     "d": "10000+ · Grand Theft Auto VI Pre-Load Begins on November 10"
+    },
+    {
+     "t": "boston red sox",
+     "u": "https://trends.google.com/trends/explore?geo=US&q=boston%20red%20sox",
+     "n": 1000,
+     "d": "1000+ · Offseason approach, Whitlock, pitching depth among hot Reddi"
+    },
+    {
+     "t": "jennifer aniston",
+     "u": "https://trends.google.com/trends/explore?geo=US&q=jennifer%20aniston",
+     "n": 100,
+     "d": "100+ · Jennifer Aniston Says ‘The Rachel’ Was Anything But Effortle"
+    },
+    {
+     "t": "davante adams",
+     "u": "https://trends.google.com/trends/explore?geo=US&q=davante%20adams",
+     "n": 1000,
+     "d": "1000+ · Rams' Nacua likely to hit IR with MCL, PCL sprain, turf toe"
+    },
+    {
+     "t": "arby's",
+     "u": "https://trends.google.com/trends/explore?geo=US&q=arby%27s",
+     "n": 200,
+     "d": "200+ · 6 Arby's Sides, Ranked Worst To Best"
+    },
+    {
+     "t": "whitney purvis",
+     "u": "https://trends.google.com/trends/explore?geo=US&q=whitney%20purvis",
+     "n": 100,
+     "d": "100+ · ‘16 & Pregnant’ Alum Whitney Purvis Pleads Guilty to Involun"
+    },
+    {
+     "t": "covid symptoms 2026",
+     "u": "https://trends.google.com/trends/explore?geo=US&q=covid%20symptoms%202026",
+     "n": 100,
+     "d": "100+ · Explainer: What is American Covid?"
+    },
+    {
+     "t": "saints depth chart",
+     "u": "https://trends.google.com/trends/explore?geo=US&q=saints%20depth%20chart",
+     "n": 100,
+     "d": "100+ · Panthers release depth chart ahead of Week 10 of the 2026 se"
+    },
+    {
+     "t": "steelers trade deadline",
+     "u": "https://trends.google.com/trends/explore?geo=US&q=steelers%20trade%20deadline",
+     "n": 1000,
+     "d": "1000+ · The Steelers let the NFL’s trade deadline pass without makin"
+    },
+    {
+     "t": "is school closed on veterans day",
+     "u": "https://trends.google.com/trends/explore?geo=US&q=is%20school%20closed%20on%20veterans%20day",
+     "n": 100,
+     "d": "100+ · Veterans Day to close Fairfax County government, but not sch"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "reddit",
+   "name": "Reddit",
+   "sub": "r/popular",
+   "region": "os",
+   "home": "https://www.reddit.com/r/popular/",
+   "unit": "",
+   "items": [
+    {
+     "t": "where is the close button, morons",
+     "u": "https://www.reddit.com/r/help/comments/1xtdlqo/where_is_the_close_button_morons/",
+     "n": 0,
+     "d": "r/help"
+    },
+    {
+     "t": "6hr30min flight food",
+     "u": "https://www.reddit.com/r/mildlyinfuriating/comments/1xsrie0/6hr30min_flight_food/",
+     "n": 0,
+     "d": "r/mildlyinfuriating"
+    },
+    {
+     "t": "Based Bryan Cranston",
+     "u": "https://www.reddit.com/r/SipsTea/comments/1xt01cw/based_bryan_cranston/",
+     "n": 0,
+     "d": "r/SipsTea"
+    },
+    {
+     "t": "A cute interaction between a local girl and a foreigner in northern Pakistan",
+     "u": "https://www.reddit.com/r/BeAmazed/comments/1xt95c9/a_cute_interaction_between_a_local_girl_and_a/",
+     "n": 0,
+     "d": "r/BeAmazed"
+    },
+    {
+     "t": "Thoughts on the apology…",
+     "u": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xsxf5p/thoughts_on_the_apology/",
+     "n": 0,
+     "d": "r/BlackPeopleofReddit"
+    },
+    {
+     "t": "El Niño 2023 vs El Niño 2026",
+     "u": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xt3ahv/el_niño_2023_vs_el_niño_2026/",
+     "n": 0,
+     "d": "r/Damnthatsinteresting"
+    },
+    {
+     "t": "Removing that ingrown feather for the pigeon",
+     "u": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xtbtfi/removing_that_ingrown_feather_for_the_pigeon/",
+     "n": 0,
+     "d": "r/Damnthatsinteresting"
+    },
+    {
+     "t": "It would be funny as all.",
+     "u": "https://www.reddit.com/r/memes/comments/1xt6sx4/it_would_be_funny_as_all/",
+     "n": 0,
+     "d": "r/memes"
+    },
+    {
+     "t": "Conservative dies inside when he finds out Texas went blue",
+     "u": "https://www.reddit.com/r/WatchPeopleDieInside/comments/1xsyp7b/conservative_dies_inside_when_he_finds_out_texas/",
+     "n": 0,
+     "d": "r/WatchPeopleDieInside"
+    },
+    {
+     "t": "Psychology’s tools for measuring masculinity lean heavily negative. A review of 65 questionnaires from the past 50 years found 78% focus mainly on bad behaviors and harm. This matters because the good side of being a man is rarely measured, and harm-only messaging may push men away from health help.",
+     "u": "https://www.reddit.com/r/science/comments/1xswi47/psychologys_tools_for_measuring_masculinity_lean/",
+     "n": 0,
+     "d": "r/science"
+    },
+    {
+     "t": "Babe wake up new ethical dilemma just dropped",
+     "u": "https://www.reddit.com/r/clevercomebacks/comments/1xsnj9d/babe_wake_up_new_ethical_dilemma_just_dropped/",
+     "n": 0,
+     "d": "r/clevercomebacks"
+    },
+    {
+     "t": "Is this the YNs of Iowa? Why are kids tryna act tuff in the suburbs of Green Gates county Iowa?",
+     "u": "https://www.reddit.com/r/tommynfg_/comments/1xsyzgh/is_this_the_yns_of_iowa_why_are_kids_tryna_act/",
+     "n": 0,
+     "d": "r/tommynfg_"
+    },
+    {
+     "t": "Lauryn Hill Leaves Fans Frustrated After Arriving 2 Hours Late for a 53-Minute Show—Again",
+     "u": "https://www.reddit.com/r/Music/comments/1xsu1vi/lauryn_hill_leaves_fans_frustrated_after_arriving/",
+     "n": 0,
+     "d": "r/Music"
+    },
+    {
+     "t": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang — helped move 240,000 banned chips into China, mostly H100 and H200",
+     "u": "https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/",
+     "n": 0,
+     "d": "r/technology"
+    },
+    {
+     "t": "Dressed my son as my childhood doll. He’s a real life cabbage patch kid.",
+     "u": "https://www.reddit.com/r/MadeMeSmile/comments/1xt6b3o/dressed_my_son_as_my_childhood_doll_hes_a_real/",
+     "n": 0,
+     "d": "r/MadeMeSmile"
+    },
+    {
+     "t": "Woke up from the nap",
+     "u": "https://www.reddit.com/r/OneOrangeBraincell/comments/1xtahgf/woke_up_from_the_nap/",
+     "n": 0,
+     "d": "r/OneOrangeBraincell"
+    },
+    {
+     "t": "Jeffries Dragged for ‘Serious Leadership Problem’ as Hegseth Impeachment Bid Falls 7 Votes Short With 11 Dem No-Shows",
+     "u": "https://www.reddit.com/r/anticapitalism/comments/1xt5x5r/jeffries_dragged_for_serious_leadership_problem/",
+     "n": 0,
+     "d": "r/anticapitalism"
+    },
+    {
+     "t": "Lil bro is terrified 😭🙏",
+     "u": "https://www.reddit.com/r/funny/comments/1xt9032/lil_bro_is_terrified/",
+     "n": 0,
+     "d": "r/funny"
+    },
+    {
+     "t": "Rep. Kamlager-Dove on the Hegseth impeachment vote failing because Democrats didn't show up: \"We knew that this vote was coming, so people should have gotten their raggedy selves up these steps to vote. There is no reason why we should have lost this vote because of attendance issues.\"",
+     "u": "https://www.reddit.com/r/Fauxmoi/comments/1xt6pty/rep_kamlagerdove_on_the_hegseth_impeachment_vote/",
+     "n": 0,
+     "d": "r/Fauxmoi"
+    },
+    {
+     "t": "Do not the cat",
+     "u": "https://www.reddit.com/r/cats/comments/1xt7sts/do_not_the_cat/",
+     "n": 0,
+     "d": "r/cats"
+    },
+    {
+     "t": "U.S. House Blocks Impeachment Resolution against Secretary Pete Hegseth",
+     "u": "https://www.reddit.com/r/videos/comments/1xt20rj/us_house_blocks_impeachment_resolution_against/",
+     "n": 0,
+     "d": "r/videos"
+    },
+    {
+     "t": "This is my excuse. What's yours?",
+     "u": "https://www.reddit.com/r/okbuddycinephile/comments/1xsvzf2/this_is_my_excuse_whats_yours/",
+     "n": 0,
+     "d": "r/okbuddycinephile"
+    },
+    {
+     "t": "LANTERNS has reportedly not been renewed for a Season 2.",
+     "u": "https://www.reddit.com/r/DC_Cinematic/comments/1xt1z2g/lanterns_has_reportedly_not_been_renewed_for_a/",
+     "n": 0,
+     "d": "r/DC_Cinematic"
+    },
+    {
+     "t": "Jayson Tatum taps Jaylen Brown, who spins the ball on his finger and ignores him",
+     "u": "https://www.reddit.com/r/nba/comments/1xt4jkb/jayson_tatum_taps_jaylen_brown_who_spins_the_ball/",
+     "n": 0,
+     "d": "r/nba"
+    },
+    {
+     "t": "Sanders Says He Won’t Support Schumer for Democratic Leader",
+     "u": "https://www.reddit.com/r/politics/comments/1xsu7uq/sanders_says_he_wont_support_schumer_for/",
+     "n": 0,
+     "d": "r/politics"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "hn",
+   "name": "Hacker News",
+   "sub": "Front page",
+   "region": "os",
+   "home": "https://news.ycombinator.com/",
+   "unit": " pts",
+   "items": [
+    {
+     "t": "Protecting SSH Keys with macOS Secure Enclave",
+     "u": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+     "n": 209,
+     "d": "80 comments"
+    },
+    {
+     "t": "Smart home devices should work without the internet",
+     "u": "https://docodethatmatters.com/home-automation-overnight-success/",
+     "n": 967,
+     "d": "347 comments"
+    },
+    {
+     "t": ".name Grandfathered",
+     "u": "https://neil.fraser.name/news/2026/11/10/",
+     "n": 851,
+     "d": "184 comments"
+    },
+    {
+     "t": "Scion is back and is going to sell a kei truck in America",
+     "u": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+     "n": 480,
+     "d": "315 comments"
+    },
+    {
+     "t": "Plane lifted into back garden as bunker takes shape",
+     "u": "https://www.bbc.co.uk/news/articles/cqkgjv4pj023o",
+     "n": 12,
+     "d": "0 comments"
+    },
+    {
+     "t": "Greg Kurtzer's Ginux is now a userspace kernel",
+     "u": "https://github.com/gmkurtzer/ginux",
+     "n": 74,
+     "d": "36 comments"
+    },
+    {
+     "t": "A great old-timey game-programming hack (2013)",
+     "u": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+     "n": 172,
+     "d": "34 comments"
+    },
+    {
+     "t": "Apple has new Mac app coming to make running local AI models easy",
+     "u": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+     "n": 266,
+     "d": "227 comments"
+    },
+    {
+     "t": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+     "u": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+     "n": 105,
+     "d": "65 comments"
+    },
+    {
+     "t": "Six Math Essentials",
+     "u": "https://teorth.github.io/tao-web/six-math-essentials.html",
+     "n": 254,
+     "d": "45 comments"
+    },
+    {
+     "t": "Why I wrote the BEAM book (2025)",
+     "u": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+     "n": 101,
+     "d": "16 comments"
+    },
+    {
+     "t": "Synaptics patent claims stop work on DisplayLink drivers",
+     "u": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+     "n": 410,
+     "d": "229 comments"
+    },
+    {
+     "t": "Starlink Mini 2",
+     "u": "https://starlink.com/mini-2",
+     "n": 421,
+     "d": "425 comments"
+    },
+    {
+     "t": "Why Amstrad chose the 3\" drives",
+     "u": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
+     "n": 44,
+     "d": "9 comments"
+    },
+    {
+     "t": "AlphaProof Code",
+     "u": "https://deepmind.google/blog/introducing-alphaproof-code/",
+     "n": 640,
+     "d": "185 comments"
+    },
+    {
+     "t": "A Compendium of Abandoned Greenhouses",
+     "u": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+     "n": 47,
+     "d": "2 comments"
+    },
+    {
+     "t": "Val Town is winding down",
+     "u": "https://blog.val.town/winding-down",
+     "n": 387,
+     "d": "96 comments"
+    },
+    {
+     "t": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+     "u": "https://github.com/adrbn/bo2-mac",
+     "n": 27,
+     "d": "2 comments"
+    },
+    {
+     "t": "Tracking Anthropic-discovered vulnerabilities",
+     "u": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+     "n": 402,
+     "d": "192 comments"
+    },
+    {
+     "t": "A ZIP-style Prolog VM for trilog",
+     "u": "https://github.com/no382001/zipc",
+     "n": 16,
+     "d": "5 comments"
+    },
+    {
+     "t": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+     "u": "https://github.com/GoogleChrome/modern-web-guidance",
+     "n": 371,
+     "d": "113 comments"
+    },
+    {
+     "t": "Hacking the Meta Ray-Ban smartglasses",
+     "u": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+     "n": 120,
+     "d": "41 comments"
+    },
+    {
+     "t": "Claude Whiteboards, Claude Sheets, and Claude Data",
+     "u": "https://claude.com/resources/articles/sheets-whiteboards-data",
+     "n": 233,
+     "d": "166 comments"
+    },
+    {
+     "t": "AI usage generates a fragile codebase",
+     "u": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+     "n": 562,
+     "d": "531 comments"
+    },
+    {
+     "t": "\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs",
+     "u": "https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
+     "n": 13,
+     "d": "0 comments"
+    },
+    {
+     "t": "LLMs Play Zachtronics' TIS-100",
+     "u": "https://tis-100.wincon.dev/",
+     "n": 72,
+     "d": "12 comments"
+    },
+    {
+     "t": "$30M Raised to Redo the CPU",
+     "u": "https://tendrils.co/blog/2026-11-10/30m-raised",
+     "n": 105,
+     "d": "108 comments"
+    },
+    {
+     "t": "AMD's Zen 6 Family: Feeding the Beast",
+     "u": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+     "n": 240,
+     "d": "95 comments"
+    },
+    {
+     "t": "Process Explorer for macOS",
+     "u": "https://github.com/microsoft/Procexp-Mac",
+     "n": 210,
+     "d": "66 comments"
+    },
+    {
+     "t": "Announcing .NET 11",
+     "u": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+     "n": 194,
+     "d": "248 comments"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "ph",
+   "name": "Product Hunt",
+   "sub": "Today",
+   "region": "os",
+   "home": "https://www.producthunt.com/",
+   "unit": "",
+   "items": [
+    {
+     "t": "ScroogeFrog AI",
+     "u": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+     "n": 0,
+     "d": "<p> AI ad fraud detection that protects your marketing budget </p> <p> <a href=\"https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Muse Ember by Meta",
+     "u": "https://www.producthunt.com/products/meta-ai",
+     "n": 0,
+     "d": "<p> Meta's low-cost AI model for high-volume agent tasks </p> <p> <a href=\"https://www.producthunt.com/products/meta-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Seedream 5.5 by ByteDance",
+     "u": "https://www.producthunt.com/products/seedream-4-0",
+     "n": 0,
+     "d": "<p> ByteDance's AI image model built for 100-round editing </p> <p> <a href=\"https://www.producthunt.com/products/seedream-4-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Relay",
+     "u": "https://www.producthunt.com/products/relaytoai",
+     "n": 0,
+     "d": "<p> DocSend for AI agents: send and receive docs with context </p> <p> <a href=\"https://www.producthunt.com/products/relaytoai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Mister Blocks",
+     "u": "https://www.producthunt.com/products/mister-blocks",
+     "n": 0,
+     "d": "<p> Make a picture of LEGO bricks and get AI suggest you a build </p> <p> <a href=\"https://www.producthunt.com/products/mister-blocks?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Shot.video",
+     "u": "https://www.producthunt.com/products/shot-video",
+     "n": 0,
+     "d": "<p> Multi-camera videos with the phones you already own </p> <p> <a href=\"https://www.producthunt.com/products/shot-video?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Xolace",
+     "u": "https://www.producthunt.com/products/xolace",
+     "n": 0,
+     "d": "<p> For the bad days you wouldn’t call a mental health problem </p> <p> <a href=\"https://www.producthunt.com/products/xolace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Skillbox",
+     "u": "https://www.producthunt.com/products/skillbox-5",
+     "n": 0,
+     "d": "<p> One library for your AI skills, synced to every agent </p> <p> <a href=\"https://www.producthunt.com/products/skillbox-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Scribe v3 by ElevenLabs",
+     "u": "https://www.producthunt.com/products/elevenlabs",
+     "n": 0,
+     "d": "<p> Speech to text with 27% fewer errors in 90+ languages </p> <p> <a href=\"https://www.producthunt.com/products/elevenlabs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "nizima ACTION!!",
+     "u": "https://www.producthunt.com/products/nizima-action-by-live2d",
+     "n": 0,
+     "d": "<p> Powerful editing, expressive characters, zero installs. </p> <p> <a href=\"https://www.producthunt.com/products/nizima-action-by-live2d?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Reddit Reviews",
+     "u": "https://www.producthunt.com/products/reddit",
+     "n": 0,
+     "d": "<p> Product pages that collect subreddit sentiment </p> <p> <a href=\"https://www.producthunt.com/products/reddit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Mitra MCP",
+     "u": "https://www.producthunt.com/products/mitra-5",
+     "n": 0,
+     "d": "<p> Give your AI agents access to your personal phone line </p> <p> <a href=\"https://www.producthunt.com/products/mitra-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Padrail",
+     "u": "https://www.producthunt.com/products/padrail",
+     "n": 0,
+     "d": "<p> Turn your MacBook trackpad edges into controls </p> <p> <a href=\"https://www.producthunt.com/products/padrail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "CALL-E",
+     "u": "https://www.producthunt.com/products/call-e",
+     "n": 0,
+     "d": "<p> The phone line for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/call-e?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "MiniMax H3-Image",
+     "u": "https://www.producthunt.com/products/minimax",
+     "n": 0,
+     "d": "<p> Bringing 4K image generation into the 10-second era </p> <p> <a href=\"https://www.producthunt.com/products/minimax?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Valin",
+     "u": "https://www.producthunt.com/products/valin",
+     "n": 0,
+     "d": "<p> Your private memory for everything you save. </p> <p> <a href=\"https://www.producthunt.com/products/valin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Kippy AI",
+     "u": "https://www.producthunt.com/products/kippy-ai",
+     "n": 0,
+     "d": "<p> Learn languages while having fun! </p> <p> <a href=\"https://www.producthunt.com/products/kippy-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Earlybird",
+     "u": "https://www.producthunt.com/products/earlybird-5",
+     "n": 0,
+     "d": "<p> 29M-param speech-to-text that outputs words before they end </p> <p> <a href=\"https://www.producthunt.com/products/earlybird-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Subscriptrack",
+     "u": "https://www.producthunt.com/products/subscriptrack",
+     "n": 0,
+     "d": "<p> Connect your email, see every subscription you pay for </p> <p> <a href=\"https://www.producthunt.com/products/subscriptrack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "bonds chat",
+     "u": "https://www.producthunt.com/products/bonds-2",
+     "n": 0,
+     "d": "<p> Multiplayer AI that dies if you and your friends flake </p> <p> <a href=\"https://www.producthunt.com/products/bonds-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Stiro",
+     "u": "https://www.producthunt.com/products/stiro",
+     "n": 0,
+     "d": "<p> AI onboarding and customer success agent for SaaS </p> <p> <a href=\"https://www.producthunt.com/products/stiro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Nod by n8n",
+     "u": "https://www.producthunt.com/products/n8n-io",
+     "n": 0,
+     "d": "<p> Open source personal agent with its own computer </p> <p> <a href=\"https://www.producthunt.com/products/n8n-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "RigSpark",
+     "u": "https://www.producthunt.com/products/rigspark",
+     "n": 0,
+     "d": "<p> Know which AI to run on your own computer </p> <p> <a href=\"https://www.producthunt.com/products/rigspark?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "StableBar",
+     "u": "https://www.producthunt.com/products/stablebar",
+     "n": 0,
+     "d": "<p> A native, open-source menu bar for macOS </p> <p> <a href=\"https://www.producthunt.com/products/stablebar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    },
+    {
+     "t": "Skipbox",
+     "u": "https://www.producthunt.com/products/skipbox",
+     "n": 0,
+     "d": "<p> Cheap, fast GitHub Actions runners with unlimited minutes </p> <p> <a href=\"https://www.producthunt.com/products/skipbox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "gh",
+   "name": "GitHub Trending",
+   "sub": "Trending",
+   "region": "os",
+   "home": "https://github.com/trending",
+   "unit": " ★",
+   "items": [
+    {
+     "t": "meta/astryx",
+     "u": "https://github.com/meta/astryx",
+     "n": 3108,
+     "d": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+     "t": "ZhuLinsen/daily_stock_analysis",
+     "u": "https://github.com/ZhuLinsen/daily_stock_analysis",
+     "n": 960,
+     "d": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-ma"
+    },
+    {
+     "t": "GoogleChrome/modern-web-guidance-src",
+     "u": "https://github.com/GoogleChrome/modern-web-guidance-src",
+     "n": 133,
+     "d": ""
+    },
+    {
+     "t": "sponsors/shadcn",
+     "u": "https://github.com/sponsors/shadcn",
+     "n": 333,
+     "d": "Use your most capable model to audit your codebase and write plans for"
+    },
+    {
+     "t": "addyosmani/agent-skills",
+     "u": "https://github.com/addyosmani/agent-skills",
+     "n": 465,
+     "d": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+     "t": "vercel-labs/agent-browser",
+     "u": "https://github.com/vercel-labs/agent-browser",
+     "n": 780,
+     "d": "Browser automation CLI for AI agents"
+    },
+    {
+     "t": "we-promise/sure",
+     "u": "https://github.com/we-promise/sure",
+     "n": 159,
+     "d": "The personal finance app for everyone (by everyone)"
+    },
+    {
+     "t": "homeassistant-ai/ha-mcp",
+     "u": "https://github.com/homeassistant-ai/ha-mcp",
+     "n": 790,
+     "d": "Configure and automate Home Assistant with Claude, ChatGPT, and other "
+    },
+    {
+     "t": "openai/codex-security",
+     "u": "https://github.com/openai/codex-security",
+     "n": 20,
+     "d": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating"
+    },
+    {
+     "t": "TheAlgorithms/Java",
+     "u": "https://github.com/TheAlgorithms/Java",
+     "n": 39,
+     "d": "All Algorithms implemented in Java"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "wiki",
+   "name": "Wikipedia",
+   "sub": "Most read",
+   "region": "os",
+   "home": "https://en.wikipedia.org/wiki/Wikipedia:Top_25_Report",
+   "unit": " 次",
+   "items": [
+    {
+     "t": "Ramayana: Part 1",
+     "u": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
+     "n": 840888,
+     "d": ""
+    },
+    {
+     "t": "Russell Brand",
+     "u": "https://en.wikipedia.org/wiki/Russell_Brand",
+     "n": 545717,
+     "d": ""
+    },
+    {
+     "t": "Jensen Huang",
+     "u": "https://en.wikipedia.org/wiki/Jensen_Huang",
+     "n": 542553,
+     "d": ""
+    },
+    {
+     "t": "David Walliams",
+     "u": "https://en.wikipedia.org/wiki/David_Walliams",
+     "n": 512804,
+     "d": ""
+    },
+    {
+     "t": ".xxx",
+     "u": "https://en.wikipedia.org/wiki/.xxx",
+     "n": 213618,
+     "d": ""
+    },
+    {
+     "t": "Thomas Massie",
+     "u": "https://en.wikipedia.org/wiki/Thomas_Massie",
+     "n": 166628,
+     "d": ""
+    },
+    {
+     "t": "SS Edmund Fitzgerald",
+     "u": "https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald",
+     "n": 163598,
+     "d": ""
+    },
+    {
+     "t": "Carson Wentz",
+     "u": "https://en.wikipedia.org/wiki/Carson_Wentz",
+     "n": 158702,
+     "d": ""
+    },
+    {
+     "t": "Scene (2026 film)",
+     "u": "https://en.wikipedia.org/wiki/Scene_%282026_film%29",
+     "n": 143180,
+     "d": ""
+    },
+    {
+     "t": "Lara Stone",
+     "u": "https://en.wikipedia.org/wiki/Lara_Stone",
+     "n": 139117,
+     "d": ""
+    },
+    {
+     "t": "Deaths in 2026",
+     "u": "https://en.wikipedia.org/wiki/Deaths_in_2026",
+     "n": 138565,
+     "d": ""
+    },
+    {
+     "t": "Kirk Cousins",
+     "u": "https://en.wikipedia.org/wiki/Kirk_Cousins",
+     "n": 136900,
+     "d": ""
+    },
+    {
+     "t": "Pete Hegseth",
+     "u": "https://en.wikipedia.org/wiki/Pete_Hegseth",
+     "n": 127687,
+     "d": ""
+    },
+    {
+     "t": "Nvidia",
+     "u": "https://en.wikipedia.org/wiki/Nvidia",
+     "n": 123851,
+     "d": ""
+    },
+    {
+     "t": "List of highest-grossing Indian films",
+     "u": "https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films",
+     "n": 122614,
+     "d": ""
+    },
+    {
+     "t": "Abdul El-Sayed",
+     "u": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+     "n": 119560,
+     "d": ""
+    },
+    {
+     "t": "Godzilla Minus Zero",
+     "u": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+     "n": 107366,
+     "d": ""
+    },
+    {
+     "t": "Jemima Goldsmith",
+     "u": "https://en.wikipedia.org/wiki/Jemima_Goldsmith",
+     "n": 96742,
+     "d": ""
+    },
+    {
+     "t": "Survivor Series: WarGames (2026)",
+     "u": "https://en.wikipedia.org/wiki/Survivor_Series%3A_WarGames_%282026%29",
+     "n": 82896,
+     "d": ""
+    },
+    {
+     "t": "2026 United States elections",
+     "u": "https://en.wikipedia.org/wiki/2026_United_States_elections",
+     "n": 82516,
+     "d": ""
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "bsky",
+   "name": "Bluesky",
+   "sub": "What's Hot",
+   "region": "os",
+   "home": "https://bsky.app/",
+   "unit": " ♥",
+   "items": [
+    {
+     "t": "2026 wird über 1,5 Grad liegen. Nichts wurde unternommen, was den Namen Klimaschutz verdienen würde.…",
+     "u": "https://bsky.app/profile/terliwetter.bsky.social/post/3mzzp2g4oq225",
+     "n": 218,
+     "d": "@terliwetter.bsky.social"
+    },
+    {
+     "t": "今日は11月11日ポッキーの日 うふっ🤭いくら僕ちゃんでも “ポッキーが折れてポキッ!” なんて言わんで！ そんな余りにくだらんオヤジギャグ言わんわ ポッキーが折れてポキッ... 折れてポキッ!...…",
+     "u": "https://bsky.app/profile/shiratamamochio.bsky.social/post/3mzzmgx3f7s2q",
+     "n": 65,
+     "d": "@shiratamamochio.bsky.social"
+    },
+    {
+     "t": "When men like Andrew Tate and Russell Brand complain about the consequences of their own actions …. …",
+     "u": "https://bsky.app/profile/kaitlinkallee.bsky.social/post/3mzzkfxv5jc2h",
+     "n": 229,
+     "d": "@kaitlinkallee.bsky.social"
+    },
+    {
+     "t": "Camellia #photography #flowers #plants #blossom #BloomScrolling",
+     "u": "https://bsky.app/profile/dongmei960.bsky.social/post/3mzyiowirps2y",
+     "n": 311,
+     "d": "@dongmei960.bsky.social"
+    },
+    {
+     "t": "© Jeff Dillon. 'Queen of the Forest.' Acrylic on canvas, 2026. 24 x 30 inches.",
+     "u": "https://bsky.app/profile/garybuckley.bsky.social/post/3mzz66y34tk2j",
+     "n": 134,
+     "d": "@garybuckley.bsky.social"
+    },
+    {
+     "t": "🔴 Las trabajadoras y los trabajadores de ‘Público’ nos vamos a la huelga. ¡Por unos salarios dignos,…",
+     "u": "https://bsky.app/profile/publico.es/post/3mzzbnyjdxk2m",
+     "n": 487,
+     "d": "@publico.es"
+    },
+    {
+     "t": "US photographer Lynn Goldsmith's iconic portrait of singer Patti Smith in a motorcycle jacket, 1976 …",
+     "u": "https://bsky.app/profile/womensartbluesky.bsky.social/post/3mzz7omkfc22h",
+     "n": 551,
+     "d": "@womensartbluesky.bsky.social"
+    },
+    {
+     "t": "RIP STACY KEACH (1941-2026)",
+     "u": "https://bsky.app/profile/michaelwarburton.bsky.social/post/3mzzifs5fc227",
+     "n": 423,
+     "d": "@michaelwarburton.bsky.social"
+    },
+    {
+     "t": "One of the genuine techniques SOE taught female agents in WW2 was: just talk to men confidently. The…",
+     "u": "https://bsky.app/profile/garius.eurosky.social/post/3mzzggs7dys2n",
+     "n": 822,
+     "d": "@garius.eurosky.social"
+    },
+    {
+     "t": "When talking about rumours of ANOTHER celebrity or two with injunctions try to refrain from going \"p…",
+     "u": "https://bsky.app/profile/soozuk.bsky.social/post/3mzzngx6mvs2i",
+     "n": 189,
+     "d": "@soozuk.bsky.social"
+    },
+    {
+     "t": "Down with the landlords and capitalists! For a government of the working class!",
+     "u": "https://bsky.app/profile/iwillnotbesilenced.bsky.social/post/3mzyp54itac2y",
+     "n": 1121,
+     "d": "@iwillnotbesilenced.bsky.social"
+    },
+    {
+     "t": "Guten Morgen zusammen - wie immer mit einem aktuellen Bild der Sonne per Satellit SDO.",
+     "u": "https://bsky.app/profile/dlr-next.bsky.social/post/3mzzezfavqc25",
+     "n": 204,
+     "d": "@dlr-next.bsky.social"
+    },
+    {
+     "t": "Trinidad and Tobago's highest court strikes down colonial-era ban on gay sex",
+     "u": "https://bsky.app/profile/english.lemonde.fr/post/3mzz5aaxewd2y",
+     "n": 921,
+     "d": "@english.lemonde.fr"
+    },
+    {
+     "t": "Awesome 👇",
+     "u": "https://bsky.app/profile/blueheartedly1.bsky.social/post/3mzy73w5woc2s",
+     "n": 13187,
+     "d": "@blueheartedly1.bsky.social"
+    },
+    {
+     "t": "“A la huelga compañeros”, de Chicho Sánchez Ferlosio en pleno franquismo (1964) cuando el derecho de…",
+     "u": "https://bsky.app/profile/agustinmoreno.bsky.social/post/3mzzkcxttss2r",
+     "n": 48,
+     "d": "@agustinmoreno.bsky.social"
+    },
+    {
+     "t": "© Andrei Yakovlev. 'Fuel Crisis, Late for Work.' Oil on board, 2026. 16.5 x 11.4 inches.",
+     "u": "https://bsky.app/profile/garybuckley.bsky.social/post/3mzz6cjr6sk2j",
+     "n": 75,
+     "d": "@garybuckley.bsky.social"
+    },
+    {
+     "t": "\"What do you call a fake Opera Singer?\" \"Placebo Domingo.\"",
+     "u": "https://bsky.app/profile/lairdmickd.bsky.social/post/3mzzisdhkj22f",
+     "n": 30,
+     "d": "@lairdmickd.bsky.social"
+    },
+    {
+     "t": "Aitor Ruibal del Betis es uno de los pocos futbolistas que se ha posicionado en contra de la ultrade…",
+     "u": "https://bsky.app/profile/fonsiloaizap.bsky.social/post/3mzxvjkmohc22",
+     "n": 994,
+     "d": "@fonsiloaizap.bsky.social"
+    },
+    {
+     "t": "My kind of crowded beach. Mostly Willets and some Marbled godwits. I see these two species together …",
+     "u": "https://bsky.app/profile/socalleslie.bsky.social/post/3mzync7xiq22h",
+     "n": 333,
+     "d": "@socalleslie.bsky.social"
+    },
+    {
+     "t": "Sillä, että Orpon porukka heitetään ulos.",
+     "u": "https://bsky.app/profile/ahokasjaj.bsky.social/post/3mzzmeq5bo22k",
+     "n": 38,
+     "d": "@ahokasjaj.bsky.social"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "lobsters",
+   "name": "Lobsters",
+   "sub": "Hot",
+   "region": "os",
+   "home": "https://lobste.rs/",
+   "unit": "",
+   "items": [
+    {
+     "t": ".name grandfathered",
+     "u": "https://neil.fraser.name/news/2026/11/10/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 10:52:12 -0600"
+    },
+    {
+     "t": "The hardest tarball",
+     "u": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 07:47:03 -0600"
+    },
+    {
+     "t": "Synaptics patent claims stop work on DisplayLink drivers",
+     "u": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 10:57:25 -0600"
+    },
+    {
+     "t": "I deleted all my SSH keys",
+     "u": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 14:49:23 -0600"
+    },
+    {
+     "t": "30 years of Internet transfers with curl",
+     "u": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 17:42:39 -0600"
+    },
+    {
+     "t": "Open Graph images with Astro and Typst",
+     "u": "https://eaj.no/posts/open-graph-images-with-typst/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 05:42:48 -0600"
+    },
+    {
+     "t": "Announcing .NET 11",
+     "u": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 10:03:21 -0600"
+    },
+    {
+     "t": "Go Turns 17",
+     "u": "https://go.dev/blog/17years",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 16:47:26 -0600"
+    },
+    {
+     "t": "Weird licenses and the new open source",
+     "u": "https://dustri.org/b/weird-licenses-and-the-new-open-source.html",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 10:49:51 -0600"
+    },
+    {
+     "t": "Memory Safety Bugs in Rust Standard Library",
+     "u": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 13:44:50 -0600"
+    },
+    {
+     "t": "Searching for pedagogical materials on memory models",
+     "u": "https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 13:51:19 -0600"
+    },
+    {
+     "t": "Rendering in batches with glimmer and Datastar",
+     "u": "https://yogthos.net/posts/2026-11-10-glimmer-datastar.html",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 16:54:17 -0600"
+    },
+    {
+     "t": "Performance evolution of route lookup on Linux",
+     "u": "https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 02:25:31 -0600"
+    },
+    {
+     "t": "Modding Linux to use SIGKILL on every process",
+     "u": "https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 00:14:34 -0600"
+    },
+    {
+     "t": "You should try Gleam",
+     "u": "https://nchagnet.eu/blog/you-should-try-gleam",
+     "n": 0,
+     "d": "Mon, 09 Nov 2026 21:33:27 -0600"
+    },
+    {
+     "t": "A faster Easter date function",
+     "u": "https://www.benjoffe.com/fast-easter",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 08:36:45 -0600"
+    },
+    {
+     "t": "Next-Level Benchmarking Overfitting",
+     "u": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 06:20:55 -0600"
+    },
+    {
+     "t": "Building a networking switch ASIC chip",
+     "u": "https://essenceia.github.io/projects/expresso/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 01:39:39 -0600"
+    },
+    {
+     "t": "Microsoft are rejecting your mail",
+     "u": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
+     "n": 0,
+     "d": "Mon, 09 Nov 2026 12:36:47 -0600"
+    },
+    {
+     "t": "Building a student wiki at MFF Charles University",
+     "u": "https://archive.fosdem.org/2026/schedule/event/KLAKHV-matfyz-wiki/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 04:18:02 -0600"
+    },
+    {
+     "t": "Monads in Lean",
+     "u": "https://eli.thegreenplace.net/2026/monads-in-lean/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 04:13:14 -0600"
+    },
+    {
+     "t": "Finding a vulnerability in Star Wars Episode I: Racer",
+     "u": "https://synacktiv.com/en/publications/star-wars-episode-i-racer",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 15:58:18 -0600"
+    },
+    {
+     "t": "Large-Scale Measurement and Real-World Mitigation of Web Browser Fingerprinting in the Wild",
+     "u": "https://fingerprinting.study/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 13:14:08 -0600"
+    },
+    {
+     "t": "Blunt Banhammer Blocks Basic Bots Ballistically",
+     "u": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/",
+     "n": 0,
+     "d": "Mon, 09 Nov 2026 18:48:20 -0600"
+    },
+    {
+     "t": "What is Functional Programming?",
+     "u": "https://www.youtube.com/watch?v=bQlH49krwbk",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 17:20:23 -0600"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "techcrunch",
+   "name": "TechCrunch",
+   "sub": "Latest",
+   "region": "os",
+   "home": "https://techcrunch.com/",
+   "unit": "",
+   "items": [
+    {
+     "t": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+     "u": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 07:30:51 +0000"
+    },
+    {
+     "t": "X launches its own clipping feature to spur influencer engagement",
+     "u": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 01:02:13 +0000"
+    },
+    {
+     "t": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+     "u": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 21:08:52 +0000"
+    },
+    {
+     "t": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+     "u": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 20:52:13 +0000"
+    },
+    {
+     "t": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+     "u": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 20:47:05 +0000"
+    },
+    {
+     "t": "X-energy gets green light to build its first small modular nuclear reactors",
+     "u": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 20:43:55 +0000"
+    },
+    {
+     "t": "All 7 Anthropic founders will each cash out about $250M in IPO",
+     "u": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 19:57:52 +0000"
+    },
+    {
+     "t": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+     "u": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 19:23:34 +0000"
+    },
+    {
+     "t": "PSI is trying to make a business out of AI-driven scientific discovery",
+     "u": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 19:03:52 +0000"
+    },
+    {
+     "t": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+     "u": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 18:49:52 +0000"
+    },
+    {
+     "t": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+     "u": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 18:49:19 +0000"
+    },
+    {
+     "t": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+     "u": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 17:30:00 +0000"
+    },
+    {
+     "t": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+     "u": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 17:04:19 +0000"
+    },
+    {
+     "t": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+     "u": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 16:50:38 +0000"
+    },
+    {
+     "t": "Apple TV makes sign language interpretation a built-in accessibility feature",
+     "u": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 16:00:00 +0000"
+    },
+    {
+     "t": "Google broadens its AI hardware portfolio with two new specialized chips",
+     "u": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 15:54:08 +0000"
+    },
+    {
+     "t": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+     "u": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 15:45:27 +0000"
+    },
+    {
+     "t": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+     "u": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 15:29:30 +0000"
+    },
+    {
+     "t": "Reddit is turning user conversations into AI-powered product reviews",
+     "u": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 15:00:00 +0000"
+    },
+    {
+     "t": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+     "u": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 15:00:00 +0000"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "verge",
+   "name": "The Verge",
+   "sub": "Latest",
+   "region": "os",
+   "home": "https://www.theverge.com/",
+   "unit": "",
+   "items": [
+    {
+     "t": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+     "u": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+     "n": 0,
+     "d": "The Xbox Ally X. | Photo by Amelia Holowaty Krales / The Verge Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR on the Xbox Ally X, but you could only use it while docked. The full release of Auto SR announced today now works while you're playing handheld and running on battery, and it also supports games running at 1080p. Microsoft does note that playing in handheld and at 1080p might lead to performance that … Read the full story at The Verge."
+    },
+    {
+     "t": "The VR Disney Plus app on Meta Quest now has 3D movies",
+     "u": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+     "n": 0,
+     "d": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated Quest app doesn't just offer 3D movies; you'll also be able to see some films in themed, immersive virtual environments, like a Tatooine environment when watching Star Wars: A New Hope or a Scare Floor one for Monsters, Inc. I got to see an Avengers-themed immersive environment for myself while trying Meta's forthcoming VR Glasses in September, an … Read the full story at The Verge."
+    },
+    {
+     "t": "Oura is acquiring medical AI chatbot startup Counsel Health",
+     "u": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+     "n": 0,
+     "d": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their wearables that can then proceed to a conversation with one of its in-house physicians. Oura says it expects the deal to close before the end of the year. Oura CEO Tom Hale said in an interview with Bloomberg that the acquisition is part of a plan to connect wearables, clinical AI, and access to do … Read the full story at The Verge."
+    },
+    {
+     "t": "Sony cancels live-service shooter Fairgames",
+     "u": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+     "n": 0,
+     "d": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down Concord shortly after its failed launch. The Fairgames cancellation won't result in job cuts, and developer Haven Studios will now support other PlayStation studios, Bloomberg reports. The game was canceled following a recent test where \"player feedback and retention results were mixed and fell short of the goals we had set, … Read the full story at The Verge."
+    },
+    {
+     "t": "The PlayStation Plus PC app is shutting down next month",
+     "u": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+     "n": 0,
+     "d": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk: With a very small number of eligible PlayStation Plus Premium members (less than 0.4%) using the PlayStation Plus app on PC, making this change allows us to focus on enhancing high-quality experiences that more of our members want to use. As a result, the PlayStation Plus cloud streaming app on PC will no longer be available. PlayStation Plus Premium subscribers can still … Read the full story at The Verge."
+    },
+    {
+     "t": "Starlink Mini 2 adds a swappable battery",
+     "u": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+     "n": 0,
+     "d": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes a full year of Roam Unlimited service that SpaceX values at $2,100. The Starlink Mini 2 will run for up to 4.5 hours on a full charge, SpaceX claims, but that can be expanded by hot-swapping in additional batteries that will be sold separately, or by connecting the dish to a 60W power source over USB-C. Despite the addition of … Read the full story at The Verge."
+    },
+    {
+     "t": "The US is winning the AI race. Jensen Huang could have blown it",
+     "u": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+     "n": 0,
+     "d": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes Huang's admission that he had an affair with a woman suspected of being a Chinese spy - reportedly while her spying was known to US intelligence and even President Donald Trump - all the more shocking. The fallout goes well beyond his marriage, his reputation, or Nvidia itself. Experts tell The Verge the incident threate … Read the full story at The Verge."
+    },
+    {
+     "t": "Google’s Pixel Tag tracker is now available",
+     "u": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+     "n": 0,
+     "d": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel Tag is priced similar to Apple's AirTag 2. A single tracker costs $29.99 while a four-pack is discounted to $99.99. At 0.4 ounces, the Pixel Tag is slightly lighter than the AirTag 2 and while its oblong design is longer than Apple's tracker, Google's is a bit thinner. It doesn't include a hole to attach it to keys, luggage, or other items you wan … Read the full story at The Verge."
+    },
+    {
+     "t": "Google is making Pixel HiLight slightly more useful",
+     "u": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+     "n": 0,
+     "d": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use HiLight at the Pixel 11 Pro's August launch, which included glowing when you used Gemini and lighting up for calls from your favorite contacts. But it's something! Fortunately, that's not everything included in the Pixel Drop, as a bunch of other new features are coming to a wider range of Pixel devices. The \"Create My Widget\" feature to build a cu … Read the full story at The Verge."
+    },
+    {
+     "t": "One of our favorite multi-filament 3D printers is $100 off",
+     "u": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+     "n": 0,
+     "d": "The Bambu P2S Combo. | Image: Bambu If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bambu Lab. That’s $100 off the list price for the bundle, which includes the Bambu P2S printer and the AMS 2 Pro multi-filament handler for multicolor prints. Bambu Lab P2S Combo Bambu Lab’s P2S Combo is a 3D printer that can print in multiple colors and automatically dry its materials to help improve print quality. It also features a 5-inch touchscreen, a built-in camera for monitoring prints remotely, and AI-powered tools that can detect printing problems. Where to Buy: $779 at Amazon $749.99 $649.99 at Best Buy $749 $649 at Bambu Lab My colleague Sean Hollister praised the P2S printer for its consistency and hands-off approach to 3D printing. Automatic bed leveling, including a warning if you forget to reinstall the plate, and a bevy of sensors helps ensure every print goes smoothly. There’s a live camera feed, too, so you can check in on your prints or share a timelapse. On its own, the P2S printer is usually $549, but is also currently $100 off. The AMS 2 Pro’s filament handler’s fully enclosed setup saves your filament from absorbing moisture and clogging the nozzle or tubes. As a result, you can go weeks between prints and fire one off from your computer without checking on colors or manually swapping filaments. The AMS 2 Pro itself is typically $299, but is currently on sale for $229, and the P2S printer supports up to four AMS 2 Pro units simultaneously. Read our Bambu P2S review."
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "ars",
+   "name": "Ars Technica",
+   "sub": "Latest",
+   "region": "os",
+   "home": "https://arstechnica.com/",
+   "unit": "",
+   "items": [
+    {
+     "t": "Seagate's new hybrid drive raises some old questions",
+     "u": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 23:30:56 +0000"
+    },
+    {
+     "t": "The US military seems to be getting nervous about the launch supply crunch",
+     "u": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 23:02:39 +0000"
+    },
+    {
+     "t": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+     "u": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 22:35:01 +0000"
+    },
+    {
+     "t": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+     "u": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 21:55:26 +0000"
+    },
+    {
+     "t": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+     "u": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 21:12:59 +0000"
+    },
+    {
+     "t": "What happens to mathematics when AI becomes an oracle?",
+     "u": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 20:30:01 +0000"
+    },
+    {
+     "t": "Google Fi adds support for a second 5G network, won't say which one",
+     "u": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 19:35:59 +0000"
+    },
+    {
+     "t": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+     "u": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 19:00:26 +0000"
+    },
+    {
+     "t": "Free video-streaming service Tubi lets users share curated watchlists now",
+     "u": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 18:39:16 +0000"
+    },
+    {
+     "t": "Steam Deck performance gets a reality check with Valve's new FPS data",
+     "u": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 17:26:44 +0000"
+    },
+    {
+     "t": "High oil prices have led to a dip in global carbon emissions",
+     "u": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 16:29:27 +0000"
+    },
+    {
+     "t": "One space station company sues another for copying its work",
+     "u": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 16:17:51 +0000"
+    },
+    {
+     "t": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+     "u": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 15:00:39 +0000"
+    },
+    {
+     "t": "Nvidia has a Jensen Huang problem—and no obvious successor",
+     "u": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 14:53:05 +0000"
+    },
+    {
+     "t": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+     "u": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 14:43:49 +0000"
+    },
+    {
+     "t": "Polestar has a new look with its Formula 2030 concept",
+     "u": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 14:22:02 +0000"
+    },
+    {
+     "t": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+     "u": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 12:15:32 +0000"
+    },
+    {
+     "t": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+     "u": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 12:00:21 +0000"
+    },
+    {
+     "t": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+     "u": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+     "n": 0,
+     "d": "Mon, 09 Nov 2026 21:55:35 +0000"
+    },
+    {
+     "t": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+     "u": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+     "n": 0,
+     "d": "Mon, 09 Nov 2026 21:13:39 +0000"
+    }
+   ],
+   "stale": false
+  },
+  {
+   "id": "wired",
+   "name": "WIRED",
+   "sub": "Latest",
+   "region": "os",
+   "home": "https://www.wired.com/",
+   "unit": "",
+   "items": [
+    {
+     "t": "A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks",
+     "u": "https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 10:30:00 +0000"
+    },
+    {
+     "t": "Early Black Friday Deals Under $100 (2026)",
+     "u": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-11-2026/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 10:12:00 +0000"
+    },
+    {
+     "t": "The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini",
+     "u": "https://www.wired.com/gallery/the-best-ipad/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 10:00:00 +0000"
+    },
+    {
+     "t": "LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers",
+     "u": "https://www.wired.com/story/linkedin-is-testing-a-feature-that-lets-you-see-your-profile-stalkers/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 10:00:00 +0000"
+    },
+    {
+     "t": "Best Buy Discount Codes: 60% Off",
+     "u": "https://www.wired.com/story/best-buy-discount-code/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:00:00 +0000"
+    },
+    {
+     "t": "Home Depot Promo Codes: 30% Off in November 2026",
+     "u": "https://www.wired.com/story/home-depot-promo-code/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:00:00 +0000"
+    },
+    {
+     "t": "Ulta Promo Codes: Up to 20% Off in November 2026",
+     "u": "https://www.wired.com/story/ulta-coupon/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:00:00 +0000"
+    },
+    {
+     "t": "NordVPN Coupons: 75% Off, Plus 3 Months Free in November 2026",
+     "u": "https://www.wired.com/story/nordvpn-coupon/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:00:00 +0000"
+    },
+    {
+     "t": "Google Workspace Promo Codes: 14% Off for November 2026",
+     "u": "https://www.wired.com/story/google-workspace-promo-code/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:00:00 +0000"
+    },
+    {
+     "t": "OnePlus Promo Codes: 30% Off November 2026",
+     "u": "https://www.wired.com/story/oneplus-promo-code/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:00:00 +0000"
+    },
+    {
+     "t": "Noom Promo Codes: 50% Off Best Deals for November 2026",
+     "u": "https://www.wired.com/story/noom-promo-code/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:00:00 +0000"
+    },
+    {
+     "t": "Visible Promo Codes and Coupons for November 2026",
+     "u": "https://www.wired.com/story/visible-promo-code/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:00:00 +0000"
+    },
+    {
+     "t": "Vivid Seats Promo Codes and Deals: Get 10% Off",
+     "u": "https://www.wired.com/story/vivid-seats-promo-code/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:00:00 +0000"
+    },
+    {
+     "t": "Factor Promo Code: 50% Off Off Meal Prep",
+     "u": "https://www.wired.com/story/factor-promo-code/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:00:00 +0000"
+    },
+    {
+     "t": "Squarespace Promo Codes: 20% Off in November 2026",
+     "u": "https://www.wired.com/story/squarespace-promo-code/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:00:00 +0000"
+    },
+    {
+     "t": "T-Mobile Promo Codes: 25% Off | November 2026",
+     "u": "https://www.wired.com/story/t-mobile-business-promo-code/",
+     "n": 0,
+     "d": "Wed, 11 Nov 2026 06:00:00 +0000"
+    },
+    {
+     "t": "Best Early Amazon Black Friday Deals (2026)",
+     "u": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 22:42:06 +0000"
+    },
+    {
+     "t": "‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP",
+     "u": "https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 16:40:19 +0000"
+    },
+    {
+     "t": "Kitchen Gear From Our Place Is Steeply Discounted",
+     "u": "https://www.wired.com/story/our-place-sale-november-2026/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 15:00:00 +0000"
+    },
+    {
+     "t": "Rocco’s Mini Mini Fridge Is Here (2026)",
+     "u": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+     "n": 0,
+     "d": "Tue, 10 Nov 2026 14:00:00 +0000"
+    }
+   ],
+   "stale": false
+  }
+ ]
+}
